@@ -1,0 +1,108 @@
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 0.75fr 0.25fr 3.5fr 0.25fr 3fr 0.25fr;
+    height: 7rem;
+    z-index: 100;
+    background-color: $grey1;
+
+    .logo {
+        align-self: center;
+        justify-self: center;
+        height: inherit;
+        z-index: 100;
+
+        img {
+            padding-left: 2.5rem;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+            height: 100%;
+            width: auto;
+        }
+    }
+
+    .nav-divider-1 {
+        height: inherit;
+        margin-right: -4.5rem;
+
+        svg {
+            width: inherit;
+            height: inherit;
+        }
+    }
+
+    .slogan {
+        // align-self: center;
+        justify-self: center;
+        color: $grey1;
+        background: $primary;
+        padding-right: 2rem;
+        padding-left: 2rem;
+
+        p {
+            padding: 1.3rem 2rem;
+            margin-bottom: -2rem;
+
+            i {
+                margin-right: 0.5rem;
+            }
+        }
+    }
+
+    .nav-divider-2 {
+        height: inherit;
+        margin-left: -4.5rem;
+
+        svg {
+            width: inherit;
+            height: inherit;
+        }
+    }
+
+    .nav {
+        align-self: center;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        // padding-right: 3rem;
+        z-index: 10;
+        color: $primary;
+
+        li {
+            list-style: none;
+
+            a {
+                text-decoration: none;
+                text-transform: uppercase;
+                padding-left: 1.5rem;
+                padding-right: 1.5rem;
+                color: $grey6;
+
+                &:visited {
+                    color: $grey6;
+                }
+
+                &:hover {
+                    color: $primary;
+                    padding-bottom: 1rem;
+                    border-bottom: 2px solid $primary;
+                }
+
+                i {
+                    font-size: 1.5rem;
+                }
+            }
+        }
+    }
+    .nav-divider-3 {
+        height: inherit;
+        // margin-left: -4.5rem;
+
+        svg {
+            width: inherit;
+            height: inherit;
+        }
+    }
+}

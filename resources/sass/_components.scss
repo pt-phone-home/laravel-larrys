@@ -1,0 +1,117 @@
+// FLIP CARD
+
+.card-container {
+    padding: 2rem 3rem;
+    perspective: 900;
+
+    .card {
+        height: 30rem;
+        border-radius: 10px;
+        transition: all 0.6s ease;
+        transform-style: preserve-3d;
+
+        position: relative;
+
+        &:hover {
+            transform: rotateY(180deg);
+        }
+
+        .front,
+        .back {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            background: $grey1;
+            box-shadow: $box-shadow-light;
+            border: 2px solid $primary;
+
+            display: grid;
+        }
+
+        .front {
+            background: linear-gradient(to top right, $grey1 50%, $grey5);
+            padding-top: 1rem;
+            i {
+                margin-top: 1rem;
+                font-size: 9rem;
+                color: $primary;
+                justify-self: center;
+            }
+
+            h3 {
+                font-size: 3rem;
+                color: $grey6;
+                // margin-top: -5rem;
+                justify-self: center;
+            }
+            p {
+                padding: 0 2rem;
+                font-size: 1.7rem;
+                text-align: center;
+            }
+        }
+
+        .back {
+            transform: rotateY(180deg);
+            background: linear-gradient(to top right, $grey1 50%, $grey5);
+            padding-top: 1rem;
+
+            h4 {
+                font-size: 2rem;
+                color: $grey6;
+                justify-self: center;
+            }
+
+            .house {
+                // margin-top: rem;
+                height: 10rem;
+                padding-left: 2rem;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-template-rows: 3rem;
+                justify-content: center;
+
+                h5 {
+                    font-size: 1.4rem;
+                    color: $grey5;
+                }
+            }
+
+            .garden {
+                padding-left: 2rem;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-template-rows: 3rem;
+
+                h5 {
+                    font-size: 1.4rem;
+                }
+            }
+
+            .design {
+                padding-left: 2rem;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-template-rows: 3rem;
+
+                h5 {
+                    font-size: 1.4rem;
+                }
+            }
+
+            .arts {
+                padding-left: 2rem;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-template-rows: 3rem;
+
+                h5 {
+                    font-size: 1.4rem;
+                }
+            }
+        }
+    }
+}
