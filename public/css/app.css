@@ -320,7 +320,7 @@ p {
   text-transform: capitalize;
   font-size: 8rem;
   font-family: "Great Vibes";
-  letter-spacing: 2px;
+  letter-spacing: 3px;
 }
 
 .services-heading-container .services-heading h1::before,
@@ -331,7 +331,7 @@ p {
 
 .services-container {
   grid-column: 1/-1;
-  height: 60rem;
+  height: 90rem;
   background-color: #989898;
   display: grid;
 }
@@ -339,6 +339,7 @@ p {
 .services-container .services {
   justify-self: center;
   width: 80%;
+  height: 80rem;
   margin-top: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -349,21 +350,20 @@ p {
 .services-container .services-diy,
 .services-container .services-advice,
 .services-container .services-fuel {
-  height: auto;
+  height: 40rem;
   margin: 1rem 2rem;
-  padding: 0.5rem 1rem;
-  background-color: #b8b8b8;
+  padding: 1rem 1rem;
+  background: linear-gradient(to top, #f8f8f8 30%, #989898);
   display: grid;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-  position: relative;
 }
 
 .services-container .services-wood img,
 .services-container .services-diy img,
 .services-container .services-advice img,
 .services-container .services-fuel img {
-  height: 24rem;
-  max-width: 100%;
+  height: 20rem;
+  width: 30rem;
   justify-self: center;
   margin-bottom: -2rem;
 }
@@ -372,9 +372,9 @@ p {
 .services-container .services-diy h2,
 .services-container .services-advice h2,
 .services-container .services-fuel h2 {
-  position: absolute;
-  top: 22rem;
-  left: 15rem;
+  -webkit-transform: translateY(-5rem);
+          transform: translateY(-5rem);
+  justify-self: center;
   width: 20rem;
   border-radius: 0px;
   text-align: center;
@@ -387,6 +387,102 @@ p {
 .services-container .services-advice p,
 .services-container .services-fuel p {
   text-align: center;
+  margin-top: -4rem;
+}
+
+.services-divider-2 {
+  grid-column: 1/-1;
+  margin-top: -2rem;
+  z-index: 1;
+  width: 100vw;
+}
+
+.services-divider-2 svg {
+  width: inherit;
+  height: inherit;
+}
+
+.about-us-heading-container {
+  grid-column: 1/-1;
+  margin-top: -1rem;
+  height: 15rem;
+  background-color: #f8f8f8;
+  display: grid;
+}
+
+.about-us-heading-container .about-us-heading {
+  justify-self: center;
+  z-index: 3;
+}
+
+.about-us-heading-container .about-us-heading h1 {
+  color: #2f4f4f;
+  text-transform: capitalize;
+  font-size: 8rem;
+  font-family: "Great Vibes";
+  letter-spacing: 3px;
+}
+
+.about-us-heading-container .about-us-heading h1::before,
+.about-us-heading-container .about-us-heading h1::after {
+  content: "-";
+  padding: 1rem;
+}
+
+.about-us-container {
+  grid-column: 1/-1;
+  height: 80rem;
+  background-color: #d3d3d3;
+  display: grid;
+}
+
+.about-us-container .about-us {
+  justify-self: center;
+  width: 80%;
+  height: 75rem;
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-row-gap: 2rem;
+}
+
+.about-us-container .about-us-timeLeft {
+  height: 35rem;
+  grid-column: 1/2;
+  grid-row: 1/2;
+  display: grid;
+}
+
+.about-us-container .about-us-timeLeft svg {
+  margin-top: 2rem;
+  justify-self: center;
+  height: 20rem;
+  width: auto;
+  z-index: 3;
+}
+
+.about-us-container .about-us-timeLeft h3 {
+  justify-self: center;
+  color: #2f4f4f;
+  text-transform: capitalize;
+  font-size: 7rem;
+  font-family: "Great Vibes";
+  letter-spacing: 3px;
+}
+
+.about-us-container .about-us-timeRight {
+  grid-column: 2/4;
+  grid-row: 1/2;
+}
+
+.about-us-container .about-us-reviewsLeft {
+  grid-column: 1/3;
+  grid-row: 2/3;
+}
+
+.about-us-container .about-us-reviewsRight {
+  grid-column: 3/4;
+  grid-row: 2/3;
 }
 
 .footer-container {
@@ -533,7 +629,7 @@ p {
 }
 
 .btn:hover {
-  background-color: #d3d3d3;
+  background-color: #f8f8f8;
   color: #f99637;
   border: #b8b8b8 1px solid;
   cursor: pointer;

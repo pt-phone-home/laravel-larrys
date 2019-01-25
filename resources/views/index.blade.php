@@ -95,15 +95,52 @@
 
             </div>
             <div class="services-diy">
+                <img src="/images/tools2.jpg" alt="">
+                <h2 class="btn">DIY Supplies</h2>
+                <p>We supply a variety of wood types and all the accessories and fixings you need to get your job done.</p>
 
             </div>
             <div class="services-advice">
+                <img src="/images/advice.jpg" alt="">
+                <h2 class="btn">Advice</h2>
+                <p>Three generations of DIY experience at your service!</p>
 
             </div>
             <div class="services-fuel">
+                <img src="/images/fuel.jpg" alt="">
+                <h2 class="btn">Fuel Sales</h2>
+                <p>Fuel for Stoves & Open Fires. Special offers available in store.</p>
 
             </div>
 
+        </div>
+    </div>
+    <div class="services-divider-2">
+            <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1441.5 215.71"><path d="M216,416.8v1.06H0V310H62.29c-3.68,32.28,28.2,71.78,77.78,93.29C166.65,414.83,193.53,419.12,216,416.8Z" transform="translate(1 -309.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><path d="M267.88,385.9c-7.7,17.76-27.11,28.35-51.88,30.9V310h23.42C265.7,333.88,277.85,362.93,267.88,385.9Z" transform="translate(1 -309.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><rect y="418.71" width="1440" height="106" transform="translate(1441 633.93) rotate(-180)" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10"/><path d="M215.5,417.81V419H-.5V311.5H61.79C58.11,343.63,90,383,139.57,404.36,166.15,415.84,193,420.11,215.5,417.81Z" transform="translate(1 -309.5)" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10"/><path d="M216,310V417.39c-9.35,1-26,.49-36.5-.89-14.79-1.93-23.91-5.92-39.43-12.7C90.49,382.18,58.61,342.46,62.29,310Z" transform="translate(1 -309.5)" fill="#989898" stroke="#989898" stroke-miterlimit="10"/><path d="M267.88,385.9c-7.7,17.76-27.11,28.35-51.88,30.9V310h23.42C265.7,333.88,277.85,362.93,267.88,385.9Z" transform="translate(1 -309.5)" fill="#989898" stroke="#989898" stroke-miterlimit="10"/><path d="M1440,310V417.86H188l2-1.06c25.3-2.55,45.12-13.14,53-30.9,10.18-23-2.22-52-29.06-75.9Z" transform="translate(1 -309.5)" fill="#989898" stroke="#989898" stroke-miterlimit="10"/></svg>
+    </div>
+
+    <div class="about-us-heading-container">
+        <div class="about-us-heading">
+            <h1>About Us</h1>
+        </div>
+    </div>
+
+    <div class="about-us-container">
+        <div class="about-us">
+            <div class="about-us-timeLeft">
+                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.7 354"><title>time</title><polygon points="333.7 154 333.7 218 219.7 218 219.7 80 283.7 80 283.7 154 333.7 154" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1293,216c0,97.75-80.59,177-180,177-2.34,0-4.68,0-7-.13V345.8q3.66.19,7.37.2c72.55,0,131.36-58,131.36-129.5S1185.92,87,1113.37,87C1051.1,87,999,129.7,985.42,187h-50C949.48,103.05,1023.63,39,1113,39,1212.41,39,1293,118.25,1293,216Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l-23.66-27.15A175.19,175.19,0,0,1,935.41,187h50a128.48,128.48,0,0,0,8.09,82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M942.74,273.56,867.3,187h68.11a175.19,175.19,0,0,0,7.33,86.56Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1066,187l-69.1,79.29-.25-.29-3.14,3.6a128.48,128.48,0,0,1-8.09-82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/></svg>
+                    <h3>70 Years</h3>
+                    
+            </div>
+            <div class="about-us-timeRight">
+                2
+            </div>
+            <div class="about-us-reviewsLeft">
+                3
+            </div>
+            <div class="about-us-reviewsRight">
+                4
+            </div>
         </div>
     </div>
 @endsection
