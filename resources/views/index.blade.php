@@ -77,4 +77,33 @@
         </div>
         
     </div>
+    <div class="services-divider">
+        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1441 215.71"><rect x="0.5" y="0.5" width="1440" height="107.86" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><rect x="0.5" y="109.21" width="1440" height="106" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/><rect x="1224.5" y="0.5" width="216" height="108" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/><path d="M1299.93,327.29c-26.58,11.54-53.46,15.83-75.93,13.51-24.77-2.55-44.18-13.14-51.88-30.9-10-23,2.18-52,28.46-75.9h177.13C1381.39,266.28,1349.51,305.78,1299.93,327.29Z" transform="translate(0.5 -233.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/></svg>
+    </div>
+    <div class="services-heading-container">
+        <div class="services-heading">
+            <h1>Our Services</h1>
+        </div>
+    </div>
+
+    <div class="services-container">
+        <div class="services">
+            <div class="services-wood">
+                <img src="/images/woodcut.jpg" alt="">
+                <h2 class="btn">Wood Cutting</h2>
+                <p>We offer a wide range of wood cutting services for all your requirements, no matter how big or small.</p>
+
+            </div>
+            <div class="services-diy">
+
+            </div>
+            <div class="services-advice">
+
+            </div>
+            <div class="services-fuel">
+
+            </div>
+
+        </div>
+    </div>
 @endsection

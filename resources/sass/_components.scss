@@ -115,3 +115,24 @@
         }
     }
 }
+
+// BUTTONS
+
+// Buttons
+
+.btn {
+    color: $grey1;
+    background-color: $primary;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-size: 2rem;
+    z-index: 15;
+    text-decoration: none;
+
+    &:hover {
+        background-color: $grey3;
+        color: $primary;
+        border: $grey4 1px solid;
+        cursor: pointer;
+    }
+}
