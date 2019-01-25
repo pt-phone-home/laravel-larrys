@@ -126,21 +126,96 @@
     </div>
 
     <div class="about-us-container">
-        <div class="about-us">
+
+        <div class="about-us-history">
+
+            <div class="years">
+                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.7 354"><title>time</title><polygon points="333.7 154 333.7 218 219.7 218 219.7 80 283.7 80 283.7 154 333.7 154" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1293,216c0,97.75-80.59,177-180,177-2.34,0-4.68,0-7-.13V345.8q3.66.19,7.37.2c72.55,0,131.36-58,131.36-129.5S1185.92,87,1113.37,87C1051.1,87,999,129.7,985.42,187h-50C949.48,103.05,1023.63,39,1113,39,1212.41,39,1293,118.25,1293,216Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l-23.66-27.15A175.19,175.19,0,0,1,935.41,187h50a128.48,128.48,0,0,0,8.09,82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M942.74,273.56,867.3,187h68.11a175.19,175.19,0,0,0,7.33,86.56Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1066,187l-69.1,79.29-.25-.29-3.14,3.6a128.48,128.48,0,0,1-8.09-82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/></svg>
+                    <h3>70 Years</h3>
+            </div>
+            <div class="info">
+                <p>Larry’s DIY is a small family run business serving the DIY trade for three generations. We pride ourselves on our high level of Customer Service and friendly advice. We have a wide range of cutting services for all your requirements no matter how big or small. We also provide a routing service.</p>
+            </div>
+
+        </div>
+        <div class="about-us-divider">
+                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1441.5 215.71"><title>Untitled-6</title><path d="M216,416.8v1.06H0V310H62.29c-3.68,32.28,28.2,71.78,77.78,93.29C166.65,414.83,193.53,419.12,216,416.8Z" transform="translate(1 -309.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><rect y="418.71" width="1440" height="106" transform="translate(1441 633.93) rotate(-180)" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10"/><path d="M215.5,417.81V419H-.5V311.5H61.79C58.11,343.63,90,383,139.57,404.36,166.15,415.84,193,420.11,215.5,417.81Z" transform="translate(1 -309.5)" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10"/></svg>
+
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        {{-- <div class="about-us">
+            
             <div class="about-us-timeLeft">
                     <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.7 354"><title>time</title><polygon points="333.7 154 333.7 218 219.7 218 219.7 80 283.7 80 283.7 154 333.7 154" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1293,216c0,97.75-80.59,177-180,177-2.34,0-4.68,0-7-.13V345.8q3.66.19,7.37.2c72.55,0,131.36-58,131.36-129.5S1185.92,87,1113.37,87C1051.1,87,999,129.7,985.42,187h-50C949.48,103.05,1023.63,39,1113,39,1212.41,39,1293,118.25,1293,216Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l-23.66-27.15A175.19,175.19,0,0,1,935.41,187h50a128.48,128.48,0,0,0,8.09,82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M942.74,273.56,867.3,187h68.11a175.19,175.19,0,0,0,7.33,86.56Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1066,187l-69.1,79.29-.25-.29-3.14,3.6a128.48,128.48,0,0,1-8.09-82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/></svg>
                     <h3>70 Years</h3>
                     
             </div>
             <div class="about-us-timeRight">
-                2
+                <p>Larry’s DIY is a small family run business serving the DIY trade for three generations. We pride ourselves on our high level of Customer Service and friendly advice. We have a wide range of cutting services for all your requirements no matter how big or small. We also provide a routing service.</p>
             </div>
             <div class="about-us-reviewsLeft">
-                3
+                <div class="review">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>"Need wood cut to size, Larry's is the only place to go. Great prices, excellent quick service. Can't recommend enough"</p>
+                </div>
+                <div class="review">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>"Super place, very helpful staff, excellent and accurate wood cutting service"</p>
+                </div>
+                <div class="review">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>"Super friendly and efficient family run business, highly recommended."</p>
+                </div>
             </div>
             <div class="about-us-reviewsRight">
-                4
+                <i class="fas fa-comment-alt"></i>
+                <h3>Customer Reviews</h3>
             </div>
-        </div>
+        </div> --}}
     </div>
 @endsection
