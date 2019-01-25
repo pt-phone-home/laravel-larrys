@@ -80,7 +80,7 @@
     <div class="services-divider">
         <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1441 215.71"><rect x="0.5" y="0.5" width="1440" height="107.86" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><rect x="0.5" y="109.21" width="1440" height="106" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/><rect x="1224.5" y="0.5" width="216" height="108" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/><path d="M1299.93,327.29c-26.58,11.54-53.46,15.83-75.93,13.51-24.77-2.55-44.18-13.14-51.88-30.9-10-23,2.18-52,28.46-75.9h177.13C1381.39,266.28,1349.51,305.78,1299.93,327.29Z" transform="translate(0.5 -233.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/></svg>
     </div>
-    <div class="services-heading-container">
+    <div class="services-heading-container" id="services">
         <div class="services-heading">
             <h1>Our Services</h1>
         </div>
@@ -119,7 +119,7 @@
             <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1441.5 215.71"><path d="M216,416.8v1.06H0V310H62.29c-3.68,32.28,28.2,71.78,77.78,93.29C166.65,414.83,193.53,419.12,216,416.8Z" transform="translate(1 -309.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><path d="M267.88,385.9c-7.7,17.76-27.11,28.35-51.88,30.9V310h23.42C265.7,333.88,277.85,362.93,267.88,385.9Z" transform="translate(1 -309.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><rect y="418.71" width="1440" height="106" transform="translate(1441 633.93) rotate(-180)" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10"/><path d="M215.5,417.81V419H-.5V311.5H61.79C58.11,343.63,90,383,139.57,404.36,166.15,415.84,193,420.11,215.5,417.81Z" transform="translate(1 -309.5)" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10"/><path d="M216,310V417.39c-9.35,1-26,.49-36.5-.89-14.79-1.93-23.91-5.92-39.43-12.7C90.49,382.18,58.61,342.46,62.29,310Z" transform="translate(1 -309.5)" fill="#989898" stroke="#989898" stroke-miterlimit="10"/><path d="M267.88,385.9c-7.7,17.76-27.11,28.35-51.88,30.9V310h23.42C265.7,333.88,277.85,362.93,267.88,385.9Z" transform="translate(1 -309.5)" fill="#989898" stroke="#989898" stroke-miterlimit="10"/><path d="M1440,310V417.86H188l2-1.06c25.3-2.55,45.12-13.14,53-30.9,10.18-23-2.22-52-29.06-75.9Z" transform="translate(1 -309.5)" fill="#989898" stroke="#989898" stroke-miterlimit="10"/></svg>
     </div>
 
-    <div class="about-us-heading-container">
+    <div class="about-us-heading-container" id="about">
         <div class="about-us-heading">
             <h1>About Us</h1>
         </div>
