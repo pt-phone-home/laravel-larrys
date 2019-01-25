@@ -141,45 +141,10 @@
         <div class="about-us-divider">
                 
         </div>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        {{-- <div class="about-us">
-            
-            <div class="about-us-timeLeft">
-                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.7 354"><title>time</title><polygon points="333.7 154 333.7 218 219.7 218 219.7 80 283.7 80 283.7 154 333.7 154" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l.25.29,27-31C993.63,269.85,993.57,269.72,993.51,269.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1293,216c0,97.75-80.59,177-180,177-2.34,0-4.68,0-7-.13V345.8q3.66.19,7.37.2c72.55,0,131.36-58,131.36-129.5S1185.92,87,1113.37,87C1051.1,87,999,129.7,985.42,187h-50C949.48,103.05,1023.63,39,1113,39,1212.41,39,1293,118.25,1293,216Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M993.51,269.6,966.4,300.71l-23.66-27.15A175.19,175.19,0,0,1,935.41,187h50a128.48,128.48,0,0,0,8.09,82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M942.74,273.56,867.3,187h68.11a175.19,175.19,0,0,0,7.33,86.56Z" transform="translate(-867.3 -39)" fill="#f79643"/><path d="M1066,187l-69.1,79.29-.25-.29-3.14,3.6a128.48,128.48,0,0,1-8.09-82.6Z" transform="translate(-867.3 -39)" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/><polygon points="129.6 227.29 126.38 230.98 99.35 262 99.1 261.71 126.21 230.6 129.35 227 129.6 227.29" fill="#f79643"/></svg>
-                    <h3>70 Years</h3>
-                    
-            </div>
-            <div class="about-us-timeRight">
-                <p>Larry’s DIY is a small family run business serving the DIY trade for three generations. We pride ourselves on our high level of Customer Service and friendly advice. We have a wide range of cutting services for all your requirements no matter how big or small. We also provide a routing service.</p>
-            </div>
-            <div class="about-us-reviewsLeft">
+
+        <div class="about-us-reviews">
+
+            <div class="reviews">
                 <div class="review">
                     <div class="stars">
                         <i class="fas fa-star"></i>
@@ -198,7 +163,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <p>"Super place, very helpful staff, excellent and accurate wood cutting service"</p>
+                    <p>"Need wood cut to size, Larry's is the only place to go. Great prices, excellent quick service. Can't recommend enough"</p>
                 </div>
                 <div class="review">
                     <div class="stars">
@@ -208,13 +173,15 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <p>"Super friendly and efficient family run business, highly recommended."</p>
+                    <p>"Need wood cut to size, Larry's is the only place to go. Great prices, excellent quick service. Can't recommend enough"</p>
                 </div>
             </div>
-            <div class="about-us-reviewsRight">
+
+            <div class="review-graphic">
                 <i class="fas fa-comment-alt"></i>
                 <h3>Customer Reviews</h3>
             </div>
-        </div> --}}
+
+        </div>
     </div>
 @endsection

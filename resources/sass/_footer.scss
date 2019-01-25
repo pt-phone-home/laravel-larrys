@@ -1,13 +1,70 @@
 .footer-container {
     grid-column: 1 / -1;
-    height: 20rem;
-    background-color: $primary;
+    height: 25rem;
+    background-color: $grey6;
     display: grid;
 
     .footer {
         justify-self: center;
+        padding-top: 2rem;
         width: 90%;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
+
+        .links,
+        .contact,
+        .connect {
+            h2 {
+                color: $grey4;
+                margin-bottom: 1rem;
+            }
+
+            h3,
+            h3 a {
+                color: $grey3;
+                margin-bottom: 0.5rem;
+            }
+
+            h3 a {
+                text-decoration: none;
+            }
+
+            ul {
+                li {
+                    list-style: none;
+                    padding-left: 1.5rem;
+                    margin-bottom: 0.5rem;
+
+                    a {
+                        text-decoration: none;
+                        color: $grey3;
+                    }
+                }
+            }
+            p {
+                color: $grey3;
+                margin-bottom: 1rem;
+                i {
+                    margin-right: 0.75rem;
+                    color: $grey3;
+                }
+            }
+
+            .facebook {
+                font-size: 4rem;
+                color: $grey3;
+            }
+        }
+
+        .copy {
+            grid-column: 1 / -1;
+            justify-self: center;
+            align-self: center;
+
+            a {
+                text-decoration: none;
+                color: $grey3;
+            }
+        }
     }
 }

@@ -93,7 +93,7 @@ p {
 .header .slogan {
   justify-self: center;
   color: #f8f8f8;
-  background: #f99637;
+  background: #f89539;
   padding-right: 2rem;
   padding-left: 2rem;
 }
@@ -123,7 +123,7 @@ p {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   z-index: 10;
-  color: #f99637;
+  color: #f89539;
 }
 
 .header .nav li {
@@ -143,9 +143,9 @@ p {
 }
 
 .header .nav li a:hover {
-  color: #f99637;
+  color: #f89539;
   padding-bottom: 1rem;
-  border-bottom: 2px solid #f99637;
+  border-bottom: 2px solid #f89539;
 }
 
 .header .nav li a i {
@@ -202,7 +202,7 @@ p {
   font-weight: 300;
   letter-spacing: 0.5rem;
   justify-self: center;
-  color: #f99637;
+  color: #f89539;
   z-index: 2;
   margin-top: -2rem;
   margin-left: -1rem;
@@ -305,9 +305,9 @@ p {
 
 .services-heading-container {
   grid-column: 1/-1;
-  margin-top: -1rem;
-  height: 15rem;
-  background-color: #f99637;
+  margin-top: -4rem;
+  height: 12rem;
+  background-color: #f89539;
   display: grid;
 }
 
@@ -405,8 +405,8 @@ p {
 
 .about-us-heading-container {
   grid-column: 1/-1;
-  margin-top: -1rem;
-  height: 15rem;
+  margin-top: -4rem;
+  height: 12rem;
   background-color: #f8f8f8;
   display: grid;
 }
@@ -438,13 +438,12 @@ p {
 }
 
 .about-us-container .about-us-history {
-  height: 10rem;
+  height: 20rem;
   margin-top: 1rem;
   justify-self: center;
   width: 90%;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  height: 20rem;
 }
 
 .about-us-container .about-us-history .years {
@@ -456,13 +455,13 @@ p {
   margin-top: 2rem;
   justify-self: center;
   align-self: center;
-  height: 20rem;
+  height: 18rem;
   width: auto;
 }
 
 .about-us-container .about-us-history .years h3 {
   position: absolute;
-  top: 8rem;
+  top: 7rem;
   left: 6rem;
   color: #2f4f4f;
   text-transform: capitalize;
@@ -477,22 +476,148 @@ p {
 }
 
 .about-us-container .about-us-divider {
-  height: 4rem;
+  height: 2rem;
   background: #f8f8f8;
+}
+
+.about-us-container .about-us-reviews {
+  height: 15rem;
+  margin-top: 1rem;
+  justify-self: center;
+  width: 90%;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.about-us-container .about-us-reviews .reviews {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.about-us-container .about-us-reviews .reviews .review {
+  display: grid;
+}
+
+.about-us-container .about-us-reviews .reviews .review .stars {
+  justify-self: center;
+  align-self: center;
+}
+
+.about-us-container .about-us-reviews .reviews .review .stars i {
+  color: #f89539;
+}
+
+.about-us-container .about-us-reviews .reviews .review p {
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 0 0.5rem;
+}
+
+.about-us-container .about-us-reviews .review-graphic {
+  display: grid;
+  position: relative;
+}
+
+.about-us-container .about-us-reviews .review-graphic h3 {
+  position: absolute;
+  top: -2rem;
+  left: 7rem;
+  color: #2f4f4f;
+  text-transform: capitalize;
+  font-size: 8rem;
+  font-family: "Great Vibes";
+  letter-spacing: 3px;
+}
+
+.about-us-container .about-us-reviews .review-graphic i {
+  justify-self: center;
+  font-size: 15rem;
+  color: #f89539;
 }
 
 .footer-container {
   grid-column: 1/-1;
-  height: 20rem;
-  background-color: #f99637;
+  height: 25rem;
+  background-color: #2f4f4f;
   display: grid;
 }
 
 .footer-container .footer {
   justify-self: center;
+  padding-top: 2rem;
   width: 90%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+}
+
+.footer-container .footer .links h2,
+.footer-container .footer .contact h2,
+.footer-container .footer .connect h2 {
+  color: #b8b8b8;
+  margin-bottom: 1rem;
+}
+
+.footer-container .footer .links h3,
+.footer-container .footer .links h3 a,
+.footer-container .footer .contact h3,
+.footer-container .footer .contact h3 a,
+.footer-container .footer .connect h3,
+.footer-container .footer .connect h3 a {
+  color: #d3d3d3;
+  margin-bottom: 0.5rem;
+}
+
+.footer-container .footer .links h3 a,
+.footer-container .footer .contact h3 a,
+.footer-container .footer .connect h3 a {
+  text-decoration: none;
+}
+
+.footer-container .footer .links ul li,
+.footer-container .footer .contact ul li,
+.footer-container .footer .connect ul li {
+  list-style: none;
+  padding-left: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-container .footer .links ul li a,
+.footer-container .footer .contact ul li a,
+.footer-container .footer .connect ul li a {
+  text-decoration: none;
+  color: #d3d3d3;
+}
+
+.footer-container .footer .links p,
+.footer-container .footer .contact p,
+.footer-container .footer .connect p {
+  color: #d3d3d3;
+  margin-bottom: 1rem;
+}
+
+.footer-container .footer .links p i,
+.footer-container .footer .contact p i,
+.footer-container .footer .connect p i {
+  margin-right: 0.75rem;
+  color: #d3d3d3;
+}
+
+.footer-container .footer .links .facebook,
+.footer-container .footer .contact .facebook,
+.footer-container .footer .connect .facebook {
+  font-size: 4rem;
+  color: #d3d3d3;
+}
+
+.footer-container .footer .copy {
+  grid-column: 1/-1;
+  justify-self: center;
+  align-self: center;
+}
+
+.footer-container .footer .copy a {
+  text-decoration: none;
+  color: #d3d3d3;
 }
 
 .card-container {
@@ -526,7 +651,7 @@ p {
           backface-visibility: hidden;
   background: #f8f8f8;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
-  border: 2px solid #f99637;
+  border: 2px solid #f89539;
   display: grid;
 }
 
@@ -538,7 +663,7 @@ p {
 .card-container .card .front i {
   margin-top: 1rem;
   font-size: 9rem;
-  color: #f99637;
+  color: #f89539;
   justify-self: center;
 }
 
@@ -616,7 +741,7 @@ p {
 
 .btn {
   color: #f8f8f8;
-  background-color: #f99637;
+  background-color: #f89539;
   padding: 0.5rem 1rem;
   border-radius: 5px;
   font-size: 2rem;
@@ -626,7 +751,7 @@ p {
 
 .btn:hover {
   background-color: #f8f8f8;
-  color: #f99637;
+  color: #f89539;
   border: #b8b8b8 1px solid;
   cursor: pointer;
 }
