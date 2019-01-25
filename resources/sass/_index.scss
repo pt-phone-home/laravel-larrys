@@ -246,7 +246,7 @@
     display: grid;
 
     .about-us-history {
-        height: 15rem;
+        height: 10rem;
         margin-top: 1rem;
         justify-self: center;
         width: 90%;
@@ -283,11 +283,8 @@
     }
 
     .about-us-divider {
-        height: 3rem;
-        margin-top: -5rem;
-
-        svg {
-        }
+        height: 4rem;
+        background: $grey1;
     }
 
     // .about-us {

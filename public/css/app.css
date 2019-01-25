@@ -438,7 +438,7 @@ p {
 }
 
 .about-us-container .about-us-history {
-  height: 15rem;
+  height: 10rem;
   margin-top: 1rem;
   justify-self: center;
   width: 90%;
@@ -477,8 +477,8 @@ p {
 }
 
 .about-us-container .about-us-divider {
-  height: 3rem;
-  margin-top: -5rem;
+  height: 4rem;
+  background: #f8f8f8;
 }
 
 .footer-container {
