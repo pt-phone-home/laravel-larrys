@@ -49,7 +49,7 @@ Wood Cutting Specialists | Larry's DIY
             <img src="/images/wood_cutting_4.jpg" alt="">
         </div>
         <div class="wood-3-text">
-            <p>If you have purchased material elsewhere and need it cut or shaped, we would be happy to help. For more information on our cutting services just give Fiona or Robbie a call on 01 837 3490 or send your questions via our contact page. </p>
+            <p>If you have purchased material elsewhere and need it cut or shaped, we would be happy to help. For more information on our cutting services just give Fiona or Robbie a call on <span>01 837 3490 </span> or send your questions via our contact page. </p>
         </div>
 
     </div>

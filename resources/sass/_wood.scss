@@ -126,6 +126,10 @@
                 align-self: center;
                 padding: 0rem 3rem;
                 font-size: 2rem;
+
+                span {
+                    color: $grey1;
+                }
             }
         }
     }

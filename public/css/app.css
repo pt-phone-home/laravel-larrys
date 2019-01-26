@@ -22,15 +22,21 @@ html {
   }
 }
 
-@media (max-width: 520px) {
+@media (max-width: 800px) {
   html {
     font-size: 55%;
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   html {
     font-size: 50%;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 45%;
   }
 }
 
@@ -939,5 +945,9 @@ p {
   align-self: center;
   padding: 0rem 3rem;
   font-size: 2rem;
+}
+
+.wood-3-container .wood-3-text p span {
+  color: #f8f8f8;
 }
 
