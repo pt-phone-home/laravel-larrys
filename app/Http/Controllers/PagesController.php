@@ -12,4 +12,7 @@ class PagesController extends Controller
     public function wood() {
         return view('wood_cutting');
     }
+    public function diy() {
+        return view('diy');
+    }
 }
