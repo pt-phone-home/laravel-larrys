@@ -83,6 +83,18 @@ p {
     margin-top: 2rem;
 }
 
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
+.mr-4 {
+    margin-right: 4rem;
+}
+
 .ml-2 {
     margin-left: 2rem;
 }
@@ -146,12 +158,38 @@ p {
     grid-gap: 1rem;
 }
 
+.w-40p {
+    width: 40%;
+}
+
+.w-50p {
+    width: 50%;
+}
+
+.w-60p {
+    width: 60%;
+}
+
 .w-80 {
     width: 80%;
 }
 
+.w-100p {
+    width: 100%;
+}
+
 // Height
 
+.h-2 {
+    height: 2rem;
+}
+
+.h-2-5 {
+    height: 2.5rem;
+}
+.h-3 {
+    height: 3rem;
+}
 .h-7 {
     height: 7rem;
 }
@@ -198,6 +236,22 @@ p {
     height: 50rem;
 }
 
+.h-55 {
+    height: 55rem;
+}
+
+.h-60 {
+    height: 60rem;
+}
+
+.h-65 {
+    height: 65rem;
+}
+
+.h-70 {
+    height: 70rem;
+}
+
 //Width
 
 .w-10 {
@@ -212,6 +266,13 @@ p {
     width: 40rem;
 }
 
+.w-50 {
+    width: 50rem;
+}
+
+.w-60 {
+    width: 60rem;
+}
 // TEXT
 
 .ta-c {
@@ -226,4 +287,14 @@ p {
 
 .bs-l {
     box-shadow: $box-shadow-light;
+}
+
+// BACKGROUND COLORS
+
+.bg-g1 {
+    background-color: $grey1;
+}
+
+.bg-pd {
+    background-color: $primary-dark;
 }

@@ -18,4 +18,10 @@ class PagesController extends Controller
     public function advice() {
         return view('advice');
     }
+    public function fuel() {
+        return view('fuel');
+    }
+    public function contact() {
+        return view('contact');
+    }
 }

@@ -1,0 +1,28 @@
+.contact-heading-container {
+    background-color: $grey2;
+
+    .contact-heading {
+        background-color: $grey2;
+
+        h1 {
+            color: $primary;
+        }
+    }
+}
+
+.contact-form-container {
+    background-color: $grey2;
+
+    .form {
+        background-color: $grey4;
+        position: relative;
+    }
+
+    i {
+        position: absolute;
+        bottom: 20rem;
+        right: 6rem;
+        font-size: 10rem;
+        color: $primary-dark;
+    }
+}

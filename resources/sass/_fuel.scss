@@ -1,0 +1,28 @@
+.fuel-heading-container {
+    background-color: $grey2;
+}
+
+.fuel-content-container {
+    background-color: $grey2;
+
+    .fuel-content {
+        &-img {
+            background-color: $primary;
+
+            img {
+                transform: translateY(5rem);
+            }
+        }
+    }
+}
+
+.fuel-end-container {
+    background-color: $grey2;
+
+    .fuel-end {
+        p {
+            background-color: $grey3;
+            transform: translateY(-4rem);
+        }
+    }
+}

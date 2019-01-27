@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-DIY Supplies | Larry's DIY
+Expert Advice | Larry's DIY
 @endsection
 
 @section('content')
@@ -21,7 +21,7 @@ DIY Supplies | Larry's DIY
 <div class="advice-content-container gc-full ds-g h-50">
     <div class="advice-content w-80 ds-g js-c h-40">
         <div class="advice-content-img w-80 h-40 js-c ds-g">
-            <img src="/images/advice_1.jpg" alt="" class="h-40 w-50 js-c bs">
+            <img src="/images/advice_1.jpg" alt="" class="h-40 w-60 js-c bs">
         </div>
     </div>
 </div>
