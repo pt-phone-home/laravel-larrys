@@ -21,9 +21,9 @@ Wood Cutting Specialists | Larry's DIY
 <div class="wood-1-container row">
     <div class="wood-1 row-inset">
         <div class="wood-1-img">
-            <img src="/images/wood_cutting_1.jpg" alt="">
+            <img src="/images/wood_cutting_1.jpg" alt="" class="bs">
         </div>
-        <div class="wood-1-text">
+        <div class="wood-1-text bs-l">
             <p>We can cut sheets, pre-edged panels &amp; timber to your specifications, catering for DIY work, schools, colleges, art projects and much more. </p>
         </div>
 
@@ -32,12 +32,12 @@ Wood Cutting Specialists | Larry's DIY
 
 <div class="wood-2-container row">
     <div class="wood-2 row-inset">
-            <div class="wood-2-text">
+            <div class="wood-2-text bs-l">
                 <p>We can even accomodate shapes and cut-outs if you require them. We also bore out kitchen/wardrobe door hinges and have a routing service. </p>
             </div>
 
             <div class="wood-2-img">
-                <img src="/images/wood_cutting_2.jpg" alt="">
+                <img src="/images/wood_cutting_2.jpg" alt="" class="bs">
 
             </div>
     </div>
@@ -46,9 +46,9 @@ Wood Cutting Specialists | Larry's DIY
 <div class="wood-3-container row">
     <div class="wood-3 row-inset">
         <div class="wood-3-img">
-            <img src="/images/wood_cutting_4.jpg" alt="">
+            <img src="/images/wood_cutting_4.jpg" alt="" class="bs">
         </div>
-        <div class="wood-3-text">
+        <div class="wood-3-text bs-l">
             <p>If you have purchased material elsewhere and need it cut or shaped, we would be happy to help. For more information on our cutting services just give Fiona or Robbie a call on <span>01 837 3490 </span> or send your questions via our contact page. </p>
         </div>
 

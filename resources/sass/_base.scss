@@ -12,20 +12,32 @@ html {
     @media (max-width: 1250px) {
         font-size: 62.5%;
     }
-
-    @media (max-width: 1000px) {
-        font-size: 60%;
+    @media (max-width: 1150px) {
+        font-size: 60.5%;
     }
-    @media (max-width: 800px) {
-        font-size: 55%;
+    @media (max-width: 1050px) {
+        font-size: 58.5%;
     }
-
-    @media (max-width: 600px) {
-        font-size: 50%;
+    @media (max-width: 950px) {
+        font-size: 56.5%;
     }
-
-    @media (max-width: 480px) {
-        font-size: 45%;
+    @media (max-width: 850px) {
+        font-size: 55.5%;
+    }
+    @media (max-width: 750px) {
+        font-size: 53.5%;
+    }
+    @media (max-width: 650px) {
+        font-size: 51.5%;
+    }
+    @media (max-width: 550px) {
+        font-size: 49.5%;
+    }
+    @media (max-width: 450px) {
+        font-size: 47.5%;
+    }
+    @media (max-width: 350px) {
+        font-size: 45.5%;
     }
 }
 
@@ -56,4 +68,130 @@ p {
     justify-self: center;
     width: 80%;
     display: grid;
+}
+
+// Margins
+
+.mt-05 {
+    margin-top: 0.5rem;
+}
+.mt-1 {
+    margin-top: 1rem;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.ml-2 {
+    margin-left: 2rem;
+}
+
+.ml-3 {
+    margin-left: 3rem;
+}
+
+.ml-4 {
+    margin-left: 4rem;
+}
+
+// PADDING
+
+.pt-3 {
+    padding-top: 3rem;
+}
+// Grid
+
+.ds-g {
+    display: grid;
+}
+
+.gc-full {
+    grid-column: 1 / -1;
+}
+
+.gtc-1 {
+    grid-template-columns: 1fr;
+}
+
+.gtc-1-1 {
+    grid-template-columns: 1fr 1fr;
+}
+
+.gtc-1-2 {
+    grid-template-columns: 1fr 2fr;
+}
+
+.gtc-2-1 {
+    grid-template-columns: 2fr 1fr;
+}
+
+.js-c {
+    justify-self: center;
+}
+
+.as-c {
+    align-self: center;
+}
+
+.gg-1 {
+    grid-gap: 1rem;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+// Height
+
+.h-10 {
+    height: 10rem;
+}
+
+.h-15 {
+    height: 15rem;
+}
+
+.h-20 {
+    height: 20rem;
+}
+.h-25 {
+    height: 25rem;
+}
+.h-30 {
+    height: 30rem;
+}
+
+.h-35 {
+    height: 35rem;
+}
+
+//Width
+
+.w-10 {
+    width: 10rem;
+}
+
+.w-35 {
+    width: 35rem;
+}
+
+.w-40 {
+    width: 40rem;
+}
+
+// TEXT
+
+.ta-c {
+    text-align: center;
+}
+
+//BOX SHADOW
+
+.bs {
+    box-shadow: $box-shadow;
+}
+
+.bs-l {
+    box-shadow: $box-shadow-light;
 }
