@@ -60,8 +60,12 @@ Contact | Larry's DIY
             <p class="ta-c">Call in and see us at our premises at 17, Gracepark Road (Richmond Rd end), Drumcondra, Dublin 9 or send us an email to info@larrysdiy.ie, or phone us on 01 837 3490</p>
         </div>
 
-        <div class="map h-40 bs" id="map">
+        <div class="map h-40 bs mb-2" id="map">
 
+        </div>
+
+        <div class="opening ml-4">
+           
         </div>
         
     </div>
