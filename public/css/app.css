@@ -123,6 +123,14 @@ p {
   margin-left: 4rem;
 }
 
+.p-s {
+  padding: 1rem 2rem;
+}
+
+.p-m {
+  padding: 1.5rem 3rem;
+}
+
 .pt-3 {
   padding-top: 3rem;
 }
@@ -167,8 +175,20 @@ p {
   width: 80%;
 }
 
+.h-7 {
+  height: 7rem;
+}
+
+.h-8 {
+  height: 8rem;
+}
+
 .h-10 {
   height: 10rem;
+}
+
+.h-11 {
+  height: 11rem;
 }
 
 .h-15 {
@@ -189,6 +209,18 @@ p {
 
 .h-35 {
   height: 35rem;
+}
+
+.h-40 {
+  height: 40rem;
+}
+
+.h-45 {
+  height: 45rem;
+}
+
+.h-50 {
+  height: 50rem;
 }
 
 .w-10 {
@@ -1149,5 +1181,35 @@ p {
 .diy-2-container .diy-2-img img {
   -webkit-transform: translateX(-5rem);
           transform: translateX(-5rem);
+}
+
+.advice-heading-container {
+  background-color: #e8e8e8;
+}
+
+.advice-heading-container .advice-heading p {
+  background-color: #d3d3d3;
+  z-index: 3;
+}
+
+.advice-content-container {
+  background-color: #e8e8e8;
+}
+
+.advice-content-container .advice-content-img {
+  background-color: #f89539;
+}
+
+.advice-content-container .advice-content-img img {
+  -webkit-transform: translateY(4rem);
+          transform: translateY(4rem);
+}
+
+.advice-end-container {
+  background-color: #e8e8e8;
+}
+
+.advice-end-container .advice-end p {
+  background-color: #d3d3d3;
 }
 

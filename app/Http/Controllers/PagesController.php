@@ -15,4 +15,7 @@ class PagesController extends Controller
     public function diy() {
         return view('diy');
     }
+    public function advice() {
+        return view('advice');
+    }
 }

@@ -14,3 +14,4 @@
 Route::get('/', 'PagesController@index');
 Route::get('/wood_cutting', 'PagesController@wood');
 Route::get('/diy', 'PagesController@diy');
+Route::get('/advice', 'PagesController@advice');

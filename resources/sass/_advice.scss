@@ -1,0 +1,34 @@
+.advice-heading-container {
+    background-color: $grey2;
+
+    .advice-heading {
+        p {
+            background-color: $grey3;
+            z-index: 3;
+        }
+    }
+}
+
+.advice-content-container {
+    background-color: $grey2;
+
+    .advice-content {
+        &-img {
+            background-color: $primary;
+
+            img {
+                transform: translateY(4rem);
+            }
+        }
+    }
+}
+
+.advice-end-container {
+    background-color: $grey2;
+
+    .advice-end {
+        p {
+            background-color: $grey3;
+        }
+    }
+}

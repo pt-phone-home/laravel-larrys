@@ -97,6 +97,14 @@ p {
 
 // PADDING
 
+.p-s {
+    padding: 1rem 2rem;
+}
+
+.p-m {
+    padding: 1.5rem 3rem;
+}
+
 .pt-3 {
     padding-top: 3rem;
 }
@@ -144,8 +152,20 @@ p {
 
 // Height
 
+.h-7 {
+    height: 7rem;
+}
+
+.h-8 {
+    height: 8rem;
+}
+
 .h-10 {
     height: 10rem;
+}
+
+.h-11 {
+    height: 11rem;
 }
 
 .h-15 {
@@ -164,6 +184,18 @@ p {
 
 .h-35 {
     height: 35rem;
+}
+
+.h-40 {
+    height: 40rem;
+}
+
+.h-45 {
+    height: 45rem;
+}
+
+.h-50 {
+    height: 50rem;
 }
 
 //Width
