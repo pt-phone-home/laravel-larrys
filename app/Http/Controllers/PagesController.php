@@ -35,7 +35,9 @@ class PagesController extends Controller
         $email->number = $request['number'];
         $email->message = $request['message'];
 
-        \Mail::to('peter.d.tiernan@dcu.ie')->send(new MessageFromWebsite($email));
+        \Mail::to('ptiernan@gmail.com')->send(
+            new MessageFromWebsite($email)
+        );
 
         return redirect('/contact')->with('mail', 'Thanks for getting in touch. A member of the team will contact you shortly');
     }

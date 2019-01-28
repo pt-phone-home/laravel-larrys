@@ -1,12 +1,15 @@
 @component('mail::message')
-# Introduction
+# New Message from LarrysDIY.ie
 
-The body of your message.
+You have a new message from {{$email->name}} <br> <br>
+Email: {{$email->email}} <br> <br>
+Contact Number: {{$email->number}} <br> <br>
 
-@component('mail::button', ['url' => ''])
-Button Text
-@endcomponent
+Their Message is: 
+{{$email->message}}
+
+
 
 Thanks,<br>
-{{ config('app.name') }}
+<strong>Rocket.Chip Web Solutions</strong>
 @endcomponent

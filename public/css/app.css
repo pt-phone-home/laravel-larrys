@@ -1688,3 +1688,9 @@ p {
   margin-top: 1rem;
 }
 
+.mail-message {
+  border: 1px solid #f89539;
+  font-weight: 900;
+  padding: 1.5rem 3rem;
+}
+
