@@ -12,6 +12,11 @@
 
         position: relative;
 
+        @media (max-width: 930px) {
+            width: 80%;
+            margin: 0 auto;
+        }
+
         &:hover {
             transform: rotateY(180deg);
         }
@@ -46,11 +51,19 @@
                 color: $grey6;
                 // margin-top: -5rem;
                 justify-self: center;
+
+                @media (max-width: 1080px) {
+                    font-size: 2.7rem;
+                }
             }
             p {
                 padding: 0 2rem;
                 font-size: 1.7rem;
                 text-align: center;
+
+                @media (max-width: 1080px) {
+                    font-size: 1.5rem;
+                }
             }
         }
 

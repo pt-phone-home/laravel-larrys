@@ -19,7 +19,7 @@
         <li><a href="/#about">About</a></li>
         <li><a href="/contact">Contact</a></li>
 
-        <button class="menu btn">Menu<i class="fas fa-bars"></i></button>
+        <button class="menu btn" id="menu">Menu<i class="fas fa-bars"></i></button>
     </div>
     <div class="nav-divider-3">
         <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152.81 114"><title>background-1</title><path d="M980.5,641.5h-80c5-79-70-113-70-113h150Z" transform="translate(-828.19 -528)" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/></svg>
@@ -28,9 +28,12 @@
 
 </div>
 
-<div class="dropdown-nav">
+<div class="dropdown-nav" id="sidenav">
     <li class="dropdown-nav-item"><a href="/" class="dropdown-nav-link">Home</a></li>
-    <li class="dropdown-nav-item"><a href="/#services" class="dropdown-nav-link">Services</a></li>
+    <li class="dropdown-nav-item"><a href="/wood_cutting" class="dropdown-nav-link">Wood Cutting</a></li>
+    <li class="dropdown-nav-item"><a href="/diy" class="dropdown-nav-link">DIY Supplies</a></li>
+    <li class="dropdown-nav-item"><a href="/advice" class="dropdown-nav-link">Expert Advice</a></li>
+    <li class="dropdown-nav-item"><a href="/fuel" class="dropdown-nav-link">Fuel Sales</a></li>
     <li class="dropdown-nav-item"><a href="/#about" class="dropdown-nav-link">About</a></li>
     <li class="dropdown-nav-item"><a href="/contact" class="dropdown-nav-link">Contact</a></li>
 </div>

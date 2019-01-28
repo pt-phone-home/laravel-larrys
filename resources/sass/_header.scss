@@ -89,6 +89,14 @@
         .menu {
             display: none;
 
+            &:active {
+                outline: none;
+            }
+
+            &:focus {
+                outline: none;
+            }
+
             @media (max-width: 900px) {
                 display: inline-block;
                 font-size: 2rem;
@@ -150,9 +158,9 @@
 }
 
 .dropdown-nav {
-    display: grid;
+    display: none;
     width: 100%;
-    position: absolute;
+    position: fixed;
     background-color: $primary;
     // height: 30%;
     top: 7rem;
@@ -169,8 +177,17 @@
 
     &-link {
         text-decoration: none;
-        padding: 3rem 30rem;
+        padding: 1rem 40rem;
         color: $grey1;
         font-size: 1.7rem;
+
+        &:hover {
+            background-color: $primary-dark;
+        }
+    }
+
+    &:active,
+    &:focus {
+        display: none;
     }
 }
