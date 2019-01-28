@@ -17,3 +17,4 @@ Route::get('/diy', 'PagesController@diy');
 Route::get('/advice', 'PagesController@advice');
 Route::get('/fuel', 'PagesController@fuel');
 Route::get('/contact', 'PagesController@contact');
+Route::post('/contact', 'PagesController@sendEmail');

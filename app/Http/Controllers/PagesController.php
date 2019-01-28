@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Mail;
+use App\Mail\MessageFromWebsite;
 
 class PagesController extends Controller
 {
@@ -23,5 +25,18 @@ class PagesController extends Controller
     }
     public function contact() {
         return view('contact');
+    }
+    public function sendEmail(Request $request) {
+        
+        $email = new Mail;
+
+        $email->name = $request['name'];
+        $email->email = $request['email'];
+        $email->number = $request['number'];
+        $email->message = $request['message'];
+
+        \Mail::to('peter.d.tiernan@dcu.ie')->send(new MessageFromWebsite($email));
+
+        return redirect('/contact')->with('mail', 'Thanks for getting in touch. A member of the team will contact you shortly');
     }
 }

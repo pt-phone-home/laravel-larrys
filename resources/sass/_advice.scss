@@ -1,23 +1,52 @@
 .advice-heading-container {
     background-color: $grey2;
+    grid-column: 1 / -1;
+    display: grid;
 
     .advice-heading {
+        justify-self: center;
+        width: 80%;
+        height: 10rem;
+        margin-top: 2rem;
+        display: grid;
+
+        h1 {
+            justify-self: center;
+        }
+
         p {
             background-color: $grey3;
+            padding: 1.5rem 3rem;
+            margin-top: 2rem;
             z-index: 3;
         }
     }
 }
 
 .advice-content-container {
+    grid-column: 1 / -1;
+    display: grid;
+    height: 50rem;
     background-color: $grey2;
 
     .advice-content {
+        justify-self: center;
+        width: 80%;
+        display: grid;
+        height: 40rem;
         &-img {
             background-color: $primary;
+            width: 80%;
+            height: 40rem;
+            justify-self: center;
+            display: grid;
 
             img {
                 transform: translateY(4rem);
+                height: 40rem;
+                width: 60rem;
+                justify-self: center;
+                box-shadow: $box-shadow;
             }
         }
     }
@@ -25,9 +54,19 @@
 
 .advice-end-container {
     background-color: $grey2;
+    grid-column: 1 / -1;
+    display: grid;
+    height: 11rem;
 
     .advice-end {
+        width: 80%;
+        display: grid;
+        justify-self: center;
+        align-self: center;
+        height: 8rem;
         p {
+            align-self: center;
+            padding: 1.5rem 3rem;
             background-color: $grey3;
         }
     }

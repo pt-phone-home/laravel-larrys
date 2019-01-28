@@ -11,16 +11,16 @@ Fuel Sales | Larry's DIY
 
 </div>
 
-<div class="fuel-heading-container gc-full ds-g gtc-1 h-10">
-    <div class="fuel-heading w-80 mt-1 js-c ds-g">
-        <h1 class="js-c as-c">We stock a wide range of wood fuels
+<div class="fuel-heading-container">
+    <div class="fuel-heading">
+        <h1 class="">We stock a wide range of wood fuels
         </h1>
     </div>
 </div>
-<div class="fuel-content-container gc-full ds-g gtc-1 h-50">
-    <div class="fuel-content w-80 ds-g js-c h-40">
-        <div class="fuel-content-img w-80 h-40 js-c ds-g">
-            <img src="/images/fuel_3.jpg" class="h-40 w-60 js-c bs" alt="">
+<div class="fuel-content-container">
+    <div class="fuel-content">
+        <div class="fuel-content-img">
+            <img src="/images/fuel_3.jpg" class="" alt="">
         </div>
         <div class="fuel-content-text">
 
@@ -29,9 +29,9 @@ Fuel Sales | Larry's DIY
     </div>
 </div>
 
-<div class="fuel-end-container gc-full ds-g gtc-1 h-10">
-    <div class="fuel-end w-80 js-c">
-        <p class="p-m">We stock all types of fuel for Stoves &amp; Open Fires. <br> <br>
+<div class="fuel-end-container">
+    <div class="fuel-end">
+        <p class="">We stock all types of fuel for Stoves &amp; Open Fires. <br> <br>
 
         Coal, Briquettes, Turf, Eco-Logs, Kindling, Waxies, Softwood Logs &amp; Kiln-dried Hardwood Logs.<br> <br>
                 

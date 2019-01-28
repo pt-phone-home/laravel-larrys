@@ -11,18 +11,20 @@ Contact | Larry's DIY
 
 </div>
 
-<div class="contact-heading-container gc-full ds-g gtc-1 h-10">
-    <div class="contact-heading w-80 js-c ds-g">
-        <h1 class="js-c as-c">We would love to hear from you</h1>
+<div class="contact-heading-container">
+    <div class="contact-heading">
+        <h1 class="">We would love to hear from you</h1>
     </div>
 </div>
 
-<div class="contact-form-container gc-full ds-g gtc-1 h-60">
+<div class="contact-form-container">
     
-    <h2 class="ta-c mb-2">Send us a message</h2>
-    <p class="w-80 js-c mb-2">Use the contact form below to ask us a question or place an order. Please provide your full name, email address and contact number so that we can get in touch. Also, please give as much detail in the box provided about your question or your order.</p>
+    <h2 class="">Send us a message</h2>
+    <p class="">Use the contact form below to ask us a question or place an order. Please provide your full name, email address and contact number so that we can get in touch. Also, please give as much detail in the box provided about your question or your order.</p>
 
-    <form action="" class="form">
+    <form action="/contact" method="POST" class="form">
+        @csrf
+        @include('inc.messages')
         <div class="form-group">
             <label for="name" class="">Name:</label>
             <input type="text" name="name" placeholder="Your name" class="" required>
@@ -49,23 +51,58 @@ Contact | Larry's DIY
     
 </div>
 
-<div class="contact-divider h-3 bg-g1">
+<div class="contact-divider">
 
 </div>
 
-<div class="map-opening-container gc-full ds-g bg-pd">
-    <div class="map-opening js-c w-80 ds-g gtc-1-1">
-        <div class="map-opening-heading gc-full js-c">
-            <h2 class="ta-c">Get in touch or drop in and see us</h2>
-            <p class="ta-c">Call in and see us at our premises at 17, Gracepark Road (Richmond Rd end), Drumcondra, Dublin 9 or send us an email to info@larrysdiy.ie, or phone us on 01 837 3490</p>
+<div class="map-opening-container">
+    <div class="map-opening">
+        <div class="map-opening-heading">
+            <h2 class="">Get in touch or drop in and see us</h2>
+            <p class="">Call in and see us at our premises at 17, Gracepark Road (Richmond Rd end), Drumcondra, Dublin 9 or send us an email to info@larrysdiy.ie, or phone us on 01 837 3490</p>
         </div>
 
-        <div class="map h-40 bs mb-2" id="map">
+        <div class="map" id="map">
 
         </div>
 
         <div class="opening ml-4">
-           
+           <h1>Our Opening Times</h1>
+           <table>
+               <tr>
+                   <td>Monday</td>
+                   <td>Closed</td>
+               </tr>
+               <tr>
+                   <td>Tuesday</td>
+                   <td>9am - 5:30pm</td>
+               </tr>
+               <tr>
+                   <td>Wednesday</td>
+                   <td>9am - 5:30pm</td>
+               </tr>
+               <tr>
+                   <td>Thursday</td>
+                   <td>9am - 5:30pm</td>
+               </tr>
+               <tr>
+                   <td>Friday</td>
+                   <td>9am - 5:30pm</td>
+               </tr>
+               <tr>
+                   <td>Saturyday</td>
+                   <td>9am - 4pm</td>
+               </tr>
+               <tr>
+                   <td>Sunday</td>
+                   <td>Closed</td>
+               </tr>
+               <tr>
+                   <td>Bank Holidays</td>
+                   <td>Closed</td>
+               </tr>
+           </table>
+           <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
         </div>
         
     </div>
