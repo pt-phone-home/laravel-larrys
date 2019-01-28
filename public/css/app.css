@@ -332,6 +332,12 @@ p {
   background-color: #f8f8f8;
 }
 
+@media (max-width: 1275px) {
+  .header {
+    grid-template-columns: 0.5fr 0.15fr 3fr 0.15fr 3fr 0.15fr;
+  }
+}
+
 .header .logo {
   align-self: center;
   justify-self: center;
@@ -361,14 +367,27 @@ p {
   justify-self: center;
   color: #f8f8f8;
   background: #f89539;
-  padding-right: 2rem;
-  padding-left: 2rem;
+  padding: 0rem 2rem;
+  z-index: 10;
+}
+
+@media (max-width: 1150px) {
+  .header .slogan {
+    padding: 0rem 1rem;
+  }
 }
 
 .header .slogan p {
   padding: 1.3rem 2rem;
   margin-bottom: -2rem;
   font-size: 1.4rem;
+  z-index: 10;
+}
+
+@media (max-width: 1150px) {
+  .header .slogan p {
+    padding: 1rem 1rem;
+  }
 }
 
 .header .slogan p i {
@@ -387,22 +406,55 @@ p {
 
 .header .nav {
   align-self: center;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  justify-self: center;
   z-index: 10;
   color: #f89539;
+  position: relative;
+}
+
+.header .nav .menu {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .header .nav .menu {
+    display: inline-block;
+    font-size: 2rem;
+  }
+}
+
+.header .nav .menu i {
+  margin-left: 1rem;
 }
 
 .header .nav li {
   list-style: none;
+  display: inline-block;
+}
+
+@media (max-width: 900px) {
+  .header .nav li {
+    display: none;
+  }
 }
 
 .header .nav li a {
   text-decoration: none;
   text-transform: uppercase;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding: 3rem 2rem;
   color: #2f4f4f;
+}
+
+@media (max-width: 1150px) {
+  .header .nav li a {
+    padding: 3rem 1.5rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .header .nav li a {
+    padding: 3rem 1rem;
+  }
 }
 
 .header .nav li a:visited {
@@ -426,6 +478,31 @@ p {
 .header .nav-divider-3 svg {
   width: inherit;
   height: inherit;
+}
+
+.dropdown-nav {
+  display: grid;
+  width: 100%;
+  position: absolute;
+  background-color: #f89539;
+  top: 7rem;
+  right: 0rem;
+  border-radius: 0px 0px 10px 10px;
+  z-index: 100;
+}
+
+.dropdown-nav-item {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  justify-self: center;
+  list-style: none;
+}
+
+.dropdown-nav-link {
+  text-decoration: none;
+  padding: 3rem 30rem;
+  color: #f8f8f8;
+  font-size: 1.7rem;
 }
 
 .banner {
