@@ -1,12 +1,13 @@
 .fuel-heading-container {
     grid-column: 1 / -1;
     display: grid;
-    height: 10rem;
+    // height: 10rem;
     background-color: $grey2;
 
     .fuel-heading {
         width: 80%;
         margin-top: 1rem;
+        margin-bottom: 1rem;
         justify-self: center;
         display: grid;
 
@@ -19,16 +20,24 @@
 
 .fuel-content-container {
     grid-column: 1/ -1;
-    margin-top: 1rem;
+    // margin-top: 1rem;
     display: grid;
-    height: 50rem;
+    // height: 50rem;
     background-color: $grey2;
 
     .fuel-content {
         width: 80%;
         display: grid;
         justify-self: center;
-        height: 40rem;
+        // height: 40rem;
+        margin-bottom: 7rem;
+
+        @media (max-width: 1000px) {
+            width: 95%;
+        }
+        @media (max-width: 800px) {
+            width: 100%;
+        }
 
         &-img {
             width: 80%;
@@ -37,12 +46,28 @@
             display: grid;
             background-color: $primary;
 
+            @media (max-width: 800px) {
+                width: 90%;
+            }
+            @media (max-width: 650px) {
+                width: 80%;
+            }
+            @media (max-width: 550px) {
+                width: 95%;
+            }
+
             img {
                 height: 40rem;
                 width: 60rem;
                 justify-self: center;
                 box-shadow: $box-shadow;
                 transform: translateY(5rem);
+
+                @media (max-width: 650px) {
+                    height: 35rem;
+                    width: 50rem;
+                    transform: translateY(7rem);
+                }
             }
         }
     }
@@ -51,12 +76,18 @@
 .fuel-end-container {
     grid-column: 1 / -1;
     display: grid;
-    height: 10rem;
+    // height: 10rem;
     background-color: $grey2;
 
     .fuel-end {
         width: 80%;
         justify-self: center;
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+
+        @media (max-width: 550px) {
+            width: 95%;
+        }
         p {
             padding: 1.5rem 3rem;
             background-color: $grey3;

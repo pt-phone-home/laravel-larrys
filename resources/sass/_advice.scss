@@ -6,9 +6,13 @@
     .advice-heading {
         justify-self: center;
         width: 80%;
-        height: 10rem;
+        // height: 10rem;
         margin-top: 2rem;
         display: grid;
+
+        @media (max-width: 1000px) {
+            width: 95%;
+        }
 
         h1 {
             justify-self: center;
@@ -26,14 +30,22 @@
 .advice-content-container {
     grid-column: 1 / -1;
     display: grid;
-    height: 50rem;
+    // height: 50rem;
     background-color: $grey2;
 
     .advice-content {
         justify-self: center;
         width: 80%;
         display: grid;
-        height: 40rem;
+        margin-bottom: 5rem;
+        // height: 40rem;
+
+        @media (max-width: 1000px) {
+            width: 95%;
+        }
+        @media (max-width: 800px) {
+            width: 100%;
+        }
         &-img {
             background-color: $primary;
             width: 80%;
@@ -41,12 +53,28 @@
             justify-self: center;
             display: grid;
 
+            @media (max-width: 800px) {
+                width: 90%;
+            }
+            @media (max-width: 650px) {
+                width: 80%;
+            }
+            @media (max-width: 550px) {
+                width: 95%;
+            }
+
             img {
                 transform: translateY(4rem);
                 height: 40rem;
                 width: 60rem;
                 justify-self: center;
                 box-shadow: $box-shadow;
+
+                @media (max-width: 650px) {
+                    height: 35rem;
+                    width: 50rem;
+                    transform: translateY(7rem);
+                }
             }
         }
     }
@@ -56,14 +84,18 @@
     background-color: $grey2;
     grid-column: 1 / -1;
     display: grid;
-    height: 11rem;
+    // height: 11rem;
 
     .advice-end {
         width: 80%;
         display: grid;
         justify-self: center;
         align-self: center;
-        height: 8rem;
+        // height: 8rem;
+
+        @media (max-width: 550px) {
+            width: 95%;
+        }
         p {
             align-self: center;
             padding: 1.5rem 3rem;
