@@ -16,6 +16,7 @@
             <h2>Contact</h2>
             <p><i class="fas fa-home"></i>17 Gracepark Road (Richmond Rd end), Drumcondra Dublin 9</p>
             <p><i class="fas fa-phone"></i>01 837 3490</p>
+            <p><i class="fas fa-at"></i>info@larrysdiy.ie</p>
         </div>
         <div class="connect">
             <h2>Connect</h2>
