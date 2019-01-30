@@ -50,6 +50,10 @@
             padding: 0rem 1rem;
         }
 
+        @media (max-width: 515px) {
+            padding: 0;
+        }
+
         p {
             padding: 1.3rem 2rem;
             margin-bottom: -2rem;
@@ -58,6 +62,16 @@
 
             @media (max-width: 1150px) {
                 padding: 1rem 1rem;
+            }
+
+            @media (max-width: 850px) {
+                visibility: hidden;
+            }
+
+            @media (max-width: 515px) {
+                padding: 0;
+                martin-bottom: 0;
+                font-size: 0.025rem;
             }
 
             i {
@@ -168,18 +182,33 @@
     border-radius: 0px 0px 10px 10px;
     z-index: 100;
 
+    @media (max-width: 900px) {
+        display: none;
+    }
+
     &-item {
         margin-top: 1rem;
         margin-bottom: 1rem;
-        justify-self: center;
+        // justify-self: center;
+        display: inline-block;
         list-style: none;
+        width: 100%;
+        // width: 100%;
+        // margin: 0
     }
 
     &-link {
+        text-align: center;
         text-decoration: none;
-        padding: 1rem 40rem;
+        padding: 1rem 0rem;
+        display: inline-block;
+        width: 100%;
         color: $grey1;
         font-size: 1.7rem;
+
+        @media (max-width: 820px) {
+            // padding: 1rem 35rem;
+        }
 
         &:hover {
             background-color: $primary-dark;
@@ -189,5 +218,31 @@
     &:active,
     &:focus {
         display: none;
+    }
+}
+
+.dropdown {
+    position: relative;
+
+    &:hover .dropdown-content {
+        display: block;
+    }
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    width: 15%;
+    top: 7rem;
+    right: 32rem;
+    background-color: $primary;
+
+    a {
+        display: inline-block;
+
+        &:hover {
+            color: $grey2;
+            cursor: pointer;
+        }
     }
 }

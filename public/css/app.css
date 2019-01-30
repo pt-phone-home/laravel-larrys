@@ -377,6 +377,12 @@ p {
   }
 }
 
+@media (max-width: 515px) {
+  .header .slogan {
+    padding: 0;
+  }
+}
+
 .header .slogan p {
   padding: 1.3rem 2rem;
   margin-bottom: -2rem;
@@ -387,6 +393,20 @@ p {
 @media (max-width: 1150px) {
   .header .slogan p {
     padding: 1rem 1rem;
+  }
+}
+
+@media (max-width: 850px) {
+  .header .slogan p {
+    visibility: hidden;
+  }
+}
+
+@media (max-width: 515px) {
+  .header .slogan p {
+    padding: 0;
+    martin-bottom: 0;
+    font-size: 0.025rem;
   }
 }
 
@@ -499,16 +519,26 @@ p {
   z-index: 100;
 }
 
+@media (max-width: 900px) {
+  .dropdown-nav {
+    display: none;
+  }
+}
+
 .dropdown-nav-item {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  justify-self: center;
+  display: inline-block;
   list-style: none;
+  width: 100%;
 }
 
 .dropdown-nav-link {
+  text-align: center;
   text-decoration: none;
-  padding: 1rem 40rem;
+  padding: 1rem 0rem;
+  display: inline-block;
+  width: 100%;
   color: #f8f8f8;
   font-size: 1.7rem;
 }
@@ -520,6 +550,32 @@ p {
 .dropdown-nav:active,
 .dropdown-nav:focus {
   display: none;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: fixed;
+  width: 15%;
+  top: 7rem;
+  right: 32rem;
+  background-color: #f89539;
+}
+
+.dropdown-content a {
+  display: inline-block;
+}
+
+.dropdown-content a:hover {
+  color: #e8e8e8;
+  cursor: pointer;
 }
 
 .banner {

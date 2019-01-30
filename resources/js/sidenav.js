@@ -3,7 +3,7 @@ const sideNav = document.querySelector("#sidenav");
 
 sideNavBtn.addEventListener("click", function() {
     sideNav.style.display == "none"
-        ? (sideNav.style.display = "grid")
+        ? (sideNav.style.display = "block")
         : (sideNav.style.display = "none");
 });
 

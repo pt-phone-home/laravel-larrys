@@ -48098,7 +48098,7 @@ __webpack_require__.r(__webpack_exports__);
 var sideNavBtn = document.querySelector("#menu");
 var sideNav = document.querySelector("#sidenav");
 sideNavBtn.addEventListener("click", function () {
-  sideNav.style.display == "none" ? sideNav.style.display = "grid" : sideNav.style.display = "none";
+  sideNav.style.display == "none" ? sideNav.style.display = "block" : sideNav.style.display = "none";
 }); // sideNavBtn.onclick = function() {
 //     sideNav.style.display = "grid";
 // };

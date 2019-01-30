@@ -15,7 +15,16 @@
     <div class="nav">
             
         <li><a href="/">Home</a></li>
-        <li><a href="/#services">Services <i class="fas fa-arrow-circle-down"></i></a></li>
+        <li class="dropdown">
+            <a href="/#services" class="dropbtn">Services <i class="fas fa-arrow-circle-down"></i>
+            </a>
+            <div class="dropdown-content">
+                <a href="/wood_cutting">Wood Cutting</a>
+                <a href="/diy">DIY Supplies</a>
+                <a href="/advice">Expert Advice</a>
+                <a href="/fuel">Fuel Sales</a>
+            </div>
+        </li>
         <li><a href="/#about">About</a></li>
         <li><a href="/contact">Contact</a></li>
 
