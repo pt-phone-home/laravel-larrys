@@ -1192,6 +1192,11 @@ p {
   color: #d3d3d3;
 }
 
+.flip {
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+}
+
 .card-container {
   padding: 2rem 3rem;
   -webkit-perspective: 900;
@@ -1214,11 +1219,6 @@ p {
   }
 }
 
-.card-container .card:hover {
-  -webkit-transform: rotateY(180deg);
-          transform: rotateY(180deg);
-}
-
 .card-container .card .front,
 .card-container .card .back {
   position: absolute;
@@ -1237,6 +1237,7 @@ p {
 .card-container .card .front {
   background: linear-gradient(to top right, #f8f8f8 50%, #989898);
   padding-top: 1rem;
+  position: relative;
 }
 
 .card-container .card .front i {
@@ -1256,6 +1257,17 @@ p {
   .card-container .card .front h3 {
     font-size: 2.7rem;
   }
+}
+
+.card-container .card .front-btn {
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  height: 4rem;
+  width: 7rem;
+  justify-self: center;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
 }
 
 .card-container .card .front p {
@@ -1281,6 +1293,18 @@ p {
   font-size: 2rem;
   color: #2f4f4f;
   justify-self: center;
+  text-decoration: underline;
+}
+
+.card-container .card .back-btn {
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  height: 4rem;
+  width: 7rem;
+  justify-self: center;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
 }
 
 .card-container .card .back .house {
@@ -1294,7 +1318,7 @@ p {
 
 .card-container .card .back .house h5 {
   font-size: 1.4rem;
-  color: #989898;
+  color: #2f4f4f;
 }
 
 .card-container .card .back .garden {
@@ -1306,6 +1330,7 @@ p {
 
 .card-container .card .back .garden h5 {
   font-size: 1.4rem;
+  color: #2f4f4f;
 }
 
 .card-container .card .back .design {
@@ -1317,17 +1342,19 @@ p {
 
 .card-container .card .back .design h5 {
   font-size: 1.4rem;
+  color: #2f4f4f;
 }
 
 .card-container .card .back .arts {
   padding-left: 2rem;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: 3rem;
 }
 
 .card-container .card .back .arts h5 {
   font-size: 1.4rem;
+  color: #2f4f4f;
 }
 
 .btn {
@@ -1341,6 +1368,27 @@ p {
 }
 
 .btn:hover {
+  background-color: #f8f8f8;
+  color: #f89539;
+  border: #b8b8b8 1px solid;
+  cursor: pointer;
+}
+
+.btn-round {
+  color: #f8f8f8;
+  background-color: #f89539;
+  padding: 0.5rem 1rem;
+  border-radius: 50%;
+  font-size: 2rem;
+  z-index: 15;
+  text-decoration: none;
+}
+
+.btn-round i {
+  color: #f8f8f8;
+}
+
+.btn-round:hover {
   background-color: #f8f8f8;
   color: #f89539;
   border: #b8b8b8 1px solid;
@@ -1777,7 +1825,7 @@ p {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .wood-3-container .wood-3 {
     grid-template-columns: 1fr;
     width: 95%;
@@ -1881,6 +1929,12 @@ p {
   .wood-3-container .wood-3-text p {
     font-size: 1.7rem;
     padding: 1rem 3rem;
+  }
+}
+
+@media (max-width: 670px) {
+  .wood-3-container .wood-3-text p {
+    margin-bottom: 2rem;
   }
 }
 
@@ -2111,7 +2165,7 @@ p {
 @media (max-width: 800px) {
   .diy-2-container .diy-2 {
     width: 95%;
-    margin-bottom: 7rem;
+    margin-bottom: 8rem;
   }
 }
 

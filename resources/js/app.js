@@ -6,6 +6,7 @@
 
 require("./bootstrap");
 require("./sidenav");
+require("./flip-card");
 
 window.Vue = require("vue");
 

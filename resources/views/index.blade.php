@@ -15,14 +15,16 @@
         <div class="overview">
             <h1>What can we help you with?</h1>
             <div class="overview-1 card-container">
-                <div class="card">
+                <div class="card card-1">
                     <div class="front">
                         <i class="fas fa-home"></i>
                         <h3>Home &amp; Garden</h3>
+                        <button class="btn front-btn front-btn-1">More</button>
                         <p>Our materials and expertise can be used to help with a wide variety of jobs around your home and garden.</p>
                     </div>
                     <div class="back">
                         <h4>Around The House</h4>
+                        <button class="btn back-btn back-btn-1">Back</button>
                        <div class="house">
                            <h5>New Wardrobes</h5>
                            <h5>Kitchen Presses</h5>
@@ -46,14 +48,16 @@
                 </div>
             </div>
             <div class="overview-2 card-container">
-                <div class="card">
+                <div class="card card-2">
                     <div class="front">
                         <i class="fas fa-drafting-compass"></i>
                         <h3>Projects &amp; Arts and Crafts</h3>
+                        <button class="btn front-btn front-btn-2">More</button>
                         <p>We can supply a variety of materials for your Design Project, Arts &amp; Crafts.</p>
                     </div>
                     <div class="back">
                         <h4>Design Projects</h4>
+                        <button class="btn back-btn back-btn-2">More</button>
                         <div class="design">
                             <h5>Stage Sets</h5>
                             <h5>Window Displays</h5>
@@ -65,10 +69,12 @@
                         <div class="arts">
                             <h5>Drawing Boards</h5>
                             <h5>Boards for Paintings &amp; Mosaics</h5>
-                        </div>
-                        <h5>Boards for Flower Arranging</h5>
-                        <h5>Boards for Flower Jigsaws</h5>
+                            <h5>Boards for Flower Arranging</h5>
+                            <h5>Boards for Flower Jigsaws</h5>
                         <h5>Cake Boards</h5>
+                        </div>
+                        
+                        
 
                     </div>
                 </div>
@@ -90,7 +96,7 @@
         <div class="services">
             <div class="services-wood">
                 <img src="/images/woodcut.jpg" alt="">
-                <h2 class="btn">Wood Cutting</h2>
+                <h2 class="btn" >Wood Cutting</h2>
                 <p>We offer a wide range of wood cutting services for all your requirements, no matter how big or small.</p>
 
             </div>
@@ -162,7 +168,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <p>"Need wood cut to size, Larry's is the only place to go. Great prices, excellent quick service. Can't recommend enough"</p>
+                    <p>"Super place, very helpful staff, excellent and accurate wood cutting service"</p>
                 </div>
                 <div class="review">
                     <div class="stars">
@@ -172,7 +178,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <p>"Need wood cut to size, Larry's is the only place to go. Great prices, excellent quick service. Can't recommend enough"</p>
+                    <p>"Super friendly and efficient family run business, highly recommended"</p>
                 </div>
             </div>
 

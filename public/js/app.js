@@ -47937,6 +47937,8 @@ __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 __webpack_require__(/*! ./sidenav */ "./resources/js/sidenav.js");
 
+__webpack_require__(/*! ./flip-card */ "./resources/js/flip-card.js");
+
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
 /**
  * The following block of code may be used to automatically register your
@@ -48088,6 +48090,34 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/flip-card.js":
+/*!***********************************!*\
+  !*** ./resources/js/flip-card.js ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+var cardBtn1 = document.querySelector(".front-btn-1");
+var backBtn1 = document.querySelector(".back-btn-1");
+var cardBtn2 = document.querySelector(".front-btn-2");
+var backBtn2 = document.querySelector(".back-btn-2");
+var card1 = document.querySelector(".card-1");
+var card2 = document.querySelector(".card-2");
+cardBtn1.addEventListener("click", function () {
+  card1.classList.add("flip");
+});
+backBtn1.addEventListener("click", function () {
+  card1.classList.remove("flip");
+});
+cardBtn2.addEventListener("click", function () {
+  card2.classList.add("flip");
+});
+backBtn2.addEventListener("click", function () {
+  card2.classList.remove("flip");
+});
+
+/***/ }),
+
 /***/ "./resources/js/sidenav.js":
 /*!*********************************!*\
   !*** ./resources/js/sidenav.js ***!
@@ -48098,7 +48128,8 @@ __webpack_require__.r(__webpack_exports__);
 var sideNavBtn = document.querySelector("#menu");
 var sideNav = document.querySelector("#sidenav");
 sideNavBtn.addEventListener("click", function () {
-  sideNav.style.display == "none" ? sideNav.style.display = "block" : sideNav.style.display = "none";
+  console.log("working");
+  sideNav.style.display === "none" ? sideNav.style.display = "block" : sideNav.style.display = "none";
 }); // sideNavBtn.onclick = function() {
 //     sideNav.style.display = "grid";
 // };
