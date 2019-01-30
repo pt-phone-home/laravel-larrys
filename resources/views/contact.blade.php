@@ -44,7 +44,7 @@ Contact | Larry's DIY
             <textarea name="message" id="message" cols="30" rows="10" placeholder="Please enter your order or comments here"></textarea>
         </div>
 
-        <button>Submit</button>
+        <button>Send</button>
         <i class="far fa-envelope"></i>
     </form>
 

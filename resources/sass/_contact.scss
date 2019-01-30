@@ -22,7 +22,7 @@
     background-color: $grey2;
     grid-column: 1 / -1;
     display: grid;
-    height: 60rem;
+    // height: 60rem;
 
     h2 {
         text-align: center;
@@ -67,6 +67,10 @@
         grid-template-columns: 1fr 1fr;
         color: $grey6;
 
+        @media (max-width: 1000px) {
+            grid-template-columns: 1fr;
+        }
+
         &-heading {
             grid-column: 1 / -1;
             justify-self: center;
@@ -91,12 +95,25 @@
 
         .opening {
             margin-left: 7rem;
+            margin-bottom: 2rem;
+
+            @media (max-width: 1000px) {
+                justify-self: center;
+            }
 
             table {
                 width: 80%;
 
+                @media (max-width: 1000px) {
+                    width: 100%;
+                }
+
                 tr {
                     height: 3rem;
+
+                    td {
+                        width: 60%;
+                    }
                 }
             }
 
