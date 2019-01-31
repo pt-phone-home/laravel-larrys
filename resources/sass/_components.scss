@@ -6,14 +6,13 @@
 
 .card-container {
     padding: 2rem 3rem;
-    perspective: 900;
+    perspective: 800px;
 
     .card {
         height: 30rem;
         border-radius: 10px;
         transition: all 0.6s ease;
         transform-style: preserve-3d;
-
         position: relative;
 
         @media (max-width: 930px) {
@@ -66,8 +65,8 @@
                 position: absolute;
                 top: 1rem;
                 right: 2rem;
-                height: 4rem;
-                width: 7rem;
+                // height: 4rem;
+                // width: 7rem;
                 justify-self: center;
                 backface-visibility: hidden;
             }
@@ -99,8 +98,8 @@
                 position: absolute;
                 top: 1rem;
                 right: 2rem;
-                height: 4rem;
-                width: 7rem;
+                // height: 4rem;
+                // width: 7rem;
                 justify-self: center;
                 backface-visibility: hidden;
             }

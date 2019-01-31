@@ -44,6 +44,6 @@
     <li class="dropdown-nav-item"><a href="/diy" class="dropdown-nav-link">DIY Supplies</a></li>
     <li class="dropdown-nav-item"><a href="/advice" class="dropdown-nav-link">Expert Advice</a></li>
     <li class="dropdown-nav-item"><a href="/fuel" class="dropdown-nav-link">Fuel Sales</a></li>
-    <li class="dropdown-nav-item"><a href="/#about" class="dropdown-nav-link">About</a></li>
+    {{-- <li class="dropdown-nav-item"><a href="/#about" class="dropdown-nav-link">About</a></li> --}}
     <li class="dropdown-nav-item"><a href="/contact" class="dropdown-nav-link">Contact</a></li>
 </div>

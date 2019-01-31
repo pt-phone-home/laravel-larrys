@@ -103,6 +103,8 @@
 
             table {
                 width: 80%;
+                color: $grey6;
+                font-weight: bold;
 
                 @media (max-width: 1000px) {
                     width: 100%;
@@ -113,6 +115,10 @@
 
                     td {
                         width: 60%;
+
+                        @media (max-width: 1000px) {
+                            width: 70%;
+                        }
                     }
                 }
             }

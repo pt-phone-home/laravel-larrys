@@ -57,7 +57,7 @@
                     </div>
                     <div class="back">
                         <h4>Design Projects</h4>
-                        <button class="btn back-btn back-btn-2">More</button>
+                        <button class="btn back-btn back-btn-2">Back</button>
                         <div class="design">
                             <h5>Stage Sets</h5>
                             <h5>Window Displays</h5>
@@ -96,26 +96,27 @@
         <div class="services">
             <div class="services-wood">
                 <img src="/images/woodcut.jpg" alt="">
-                <h2 class="btn" >Wood Cutting</h2>
+                <a href="/wood_cutting" class="btn services-link">Wood Cutting</a>
+                {{-- <h2 class="btn services-btn"> <a href="/wood_cutting" class="services-link">Wood Cutting</a> </h2> --}}
                 <p>We offer a wide range of wood cutting services for all your requirements, no matter how big or small.</p>
 
             </div>
             <div class="services-diy">
                 <img src="/images/tools2.jpg" alt="">
-                <h2 class="btn">DIY Supplies</h2>
+                <a href="/diy" class="btn services-link">DIY Supplies</a>
                 <p>We supply a variety of wood types and all the accessories and fixings you need to get your job done.</p>
 
             </div>
             <div class="services-advice">
                 <img src="/images/advice.jpg" alt="">
-                <h2 class="btn">Advice</h2>
+                <a href="/advice" class="btn services-link"> Advice</a>
                 <p>Three generations of DIY experience at your service!</p>
 
             </div>
             <div class="services-fuel">
                 <img src="/images/fuel.jpg" alt="">
-                <h2 class="btn">Fuel Sales</h2>
-                <p>Fuel for Stoves & Open Fires. Special offers available in store.</p>
+                <a href="/fuel" class="btn services-link">Fuel Sales</a>
+                <p>Fuel for Stoves &amp; Open Fires. Special offers available in store.</p>
 
             </div>
 

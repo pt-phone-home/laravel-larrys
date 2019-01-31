@@ -146,15 +146,16 @@
             grid-template-columns: 1fr;
             margin-top: 4rem;
             width: 85%;
+            height: 38rem;
             margin-bottom: 3rem;
         }
         @media (max-width: 800px) {
             width: 95%;
-            margin-bottom: 7rem;
+            margin-bottom: 3rem;
         }
 
         @media (max-width: 600px) {
-            height: 33rem;
+            height: 38rem;
         }
 
         &-text {
@@ -168,7 +169,10 @@
                 width: 80%;
                 justify-self: center;
                 transform: translateX(0) translateY(2rem);
-                margin-top: 2rem;
+            }
+
+            @media (max-width: 950px) {
+                margin-bottom: 2rem;
             }
 
             p {
@@ -242,6 +246,10 @@
             grid-template-columns: 1fr;
             margin-bottom: 10rem;
             width: 85%;
+        }
+
+        @media (max-width: 900px) {
+            width: 95%;
         }
         @media (max-width: 700px) {
             grid-template-columns: 1fr;
