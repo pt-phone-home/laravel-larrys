@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-
+    Larrys DIY | Specialists in Wood Cutting
 @endsection
 
 @section('content')
