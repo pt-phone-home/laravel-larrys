@@ -5,6 +5,7 @@
   <meta name="keywords" content="Wood cutting Dublin, DIY Dublin, DIY supplies Dublin, Local DIY Dublin">
   {{-- <link rel="stylesheet" href="css/btn.css"> --}}
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,600,600i,700,700i" rel="stylesheet">
+  <link rel="shortcut icon" type="image/jpg" href="/favicon.jpg">
   <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
