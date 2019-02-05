@@ -1207,8 +1207,8 @@ p {
 
 .card-container {
   padding: 2rem 3rem;
-  -webkit-perspective: 800px;
-          perspective: 800px;
+  -webkit-perspective: 700px;
+          perspective: 700px;
 }
 
 .card-container .card {
