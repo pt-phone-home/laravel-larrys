@@ -326,16 +326,10 @@ p {
   left: 0;
   grid-column: 1/-1;
   display: grid;
-  grid-template-columns: 0.75fr 0.25fr 3.5fr 0.25fr 3fr 0.25fr;
+  grid-template-columns: 1fr 0.25fr 3.5fr 0.25fr 3.5fr 0.25fr;
   height: 7rem;
   z-index: 100;
   background-color: #f8f8f8;
-}
-
-@media (max-width: 1275px) {
-  .header {
-    grid-template-columns: 0.5fr 0.15fr 3fr 0.15fr 3fr 0.15fr;
-  }
 }
 
 .header .logo {
@@ -346,16 +340,12 @@ p {
 }
 
 .header .logo img {
-  padding-left: 2.5rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  height: 100%;
+  height: inherit;
   width: auto;
 }
 
 .header .nav-divider-1 {
   height: inherit;
-  margin-right: -4.5rem;
 }
 
 .header .nav-divider-1 svg {
@@ -364,36 +354,16 @@ p {
 }
 
 .header .slogan {
-  justify-self: center;
   color: #f8f8f8;
   background: #f89539;
-  padding: 0rem 2rem;
-  z-index: 10;
-}
-
-@media (max-width: 1150px) {
-  .header .slogan {
-    padding: 0rem 1rem;
-  }
-}
-
-@media (max-width: 515px) {
-  .header .slogan {
-    padding: 0;
-  }
+  z-index: -1;
+  height: inherit;
 }
 
 .header .slogan p {
-  padding: 1.3rem 2rem;
-  margin-bottom: -2rem;
+  padding-top: 1.5rem;
   font-size: 1.4rem;
   z-index: 10;
-}
-
-@media (max-width: 1150px) {
-  .header .slogan p {
-    padding: 1rem 1rem;
-  }
 }
 
 @media (max-width: 850px) {
@@ -416,7 +386,6 @@ p {
 
 .header .nav-divider-2 {
   height: inherit;
-  margin-left: -4.5rem;
 }
 
 .header .nav-divider-2 svg {
@@ -426,10 +395,11 @@ p {
 
 .header .nav {
   align-self: center;
-  justify-self: center;
   z-index: 10;
   color: #f89539;
   position: relative;
+  display: flex;
+  justify-content: space-around;
 }
 
 .header .nav .menu {
@@ -475,8 +445,6 @@ p {
 
 .header .nav-item {
   list-style: none;
-  display: inline-block;
-  padding: 2.5rem 0;
 }
 
 @media (max-width: 900px) {
@@ -488,20 +456,7 @@ p {
 .header .nav-item-link {
   text-decoration: none;
   text-transform: uppercase;
-  padding: 6rem 2rem;
   color: #2f4f4f;
-}
-
-@media (max-width: 1150px) {
-  .header .nav-item-link {
-    padding: 3rem 1.5rem;
-  }
-}
-
-@media (max-width: 1000px) {
-  .header .nav-item-link {
-    padding: 3rem 1rem;
-  }
 }
 
 .header .nav-item-link:visited {

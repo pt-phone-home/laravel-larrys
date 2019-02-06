@@ -4,14 +4,15 @@
     left: 0;
     grid-column: 1 / -1;
     display: grid;
-    grid-template-columns: 0.75fr 0.25fr 3.5fr 0.25fr 3fr 0.25fr;
+    grid-template-columns: 1fr 0.25fr 3.5fr 0.25fr 3.5fr 0.25fr;
+    // grid-template-columns: 15% 5% 35% 5% 35% 5%;
     height: 7rem;
     z-index: 100;
     background-color: $grey1;
 
-    @media (max-width: 1275px) {
-        grid-template-columns: 0.5fr 0.15fr 3fr 0.15fr 3fr 0.15fr;
-    }
+    // @media (max-width: 1275px) {
+    //     grid-template-columns: 0.5fr 0.15fr 3fr 0.15fr 3fr 0.15fr;
+    // }
 
     .logo {
         align-self: center;
@@ -20,17 +21,17 @@
         z-index: 100;
 
         img {
-            padding-left: 2.5rem;
-            padding-top: 0.5rem;
-            padding-bottom: 0.5rem;
-            height: 100%;
+            // padding-left: 2.5rem;
+            // padding-top: 0.5rem;
+            // padding-bottom: 0.5rem;
+            height: inherit;
             width: auto;
         }
     }
 
     .nav-divider-1 {
         height: inherit;
-        margin-right: -4.5rem;
+        // margin-right: -4.5rem;
 
         svg {
             width: inherit;
@@ -40,28 +41,29 @@
 
     .slogan {
         // align-self: center;
-        justify-self: center;
+        // justify-self: center;
         color: $grey1;
         background: $primary;
-        padding: 0rem 2rem;
-        z-index: 10;
+        // padding: 0rem 2rem;
+        z-index: -1;
+        height: inherit;
 
-        @media (max-width: 1150px) {
-            padding: 0rem 1rem;
-        }
+        // @media (max-width: 1150px) {
+        //     padding: 0rem 1rem;
+        // }
 
-        @media (max-width: 515px) {
-            padding: 0;
-        }
+        // @media (max-width: 515px) {
+        //     padding: 0;
+        // }
 
         p {
-            padding: 1.3rem 2rem;
-            margin-bottom: -2rem;
+            padding-top: 1.5rem;
+            // margin-bottom: -2rem;
             font-size: 1.4rem;
             z-index: 10;
 
             @media (max-width: 1150px) {
-                padding: 1rem 1rem;
+                // padding: 1rem 1rem;
             }
 
             @media (max-width: 850px) {
@@ -82,7 +84,7 @@
 
     .nav-divider-2 {
         height: inherit;
-        margin-left: -4.5rem;
+        // margin-left: -4.5rem;
 
         svg {
             width: inherit;
@@ -92,13 +94,16 @@
 
     .nav {
         align-self: center;
-        justify-self: center;
+        // justify-self: center;
         // display: grid;
         // grid-template-columns: repeat(4, 1fr);
         // padding-right: 3rem;
         z-index: 10;
         color: $primary;
         position: relative;
+        display: flex;
+        justify-content: space-around;
+        // margin-right: 2rem;
 
         .menu {
             display: none;
@@ -134,8 +139,8 @@
 
         &-item {
             list-style: none;
-            display: inline-block;
-            padding: 2.5rem 0;
+            // display: inline-block;
+            // padding: 2.5rem 0;
 
             @media (max-width: 900px) {
                 display: none;
@@ -146,14 +151,14 @@
                 text-transform: uppercase;
                 // padding-left: 1.5rem;
                 // padding-right: 1.5rem;
-                padding: 6rem 2rem;
+                // padding: 6rem 2rem;
                 color: $grey6;
 
                 @media (max-width: 1150px) {
-                    padding: 3rem 1.5rem;
+                    // padding: 3rem 1.5rem;
                 }
                 @media (max-width: 1000px) {
-                    padding: 3rem 1rem;
+                    // padding: 3rem 1rem;
                 }
 
                 &:visited {
