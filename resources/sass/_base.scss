@@ -39,6 +39,10 @@ html {
     @media (max-width: 350px) {
         font-size: 45.5%;
     }
+
+    @media (min-width: 1500px) {
+        font-size: 75%;
+    }
 }
 
 body {
