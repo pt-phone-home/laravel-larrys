@@ -1,6 +1,6 @@
 <div class="header">
     <div class="logo">
-        <img src="/images/logo.png" alt="">
+        <img src="/images/Logo.png" alt="">
     </div>
     <div class="nav-divider-1">
         <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152.81 114"><title>background-1</title><path d="M980.5,641.5h-80c5-79-70-113-70-113h150Z" transform="translate(-828.19 -528)" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/></svg>
