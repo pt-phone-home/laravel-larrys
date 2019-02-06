@@ -451,8 +451,26 @@ p {
   }
 }
 
+@media (max-width: 500px) {
+  .header .nav .menu {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 350px) {
+  .header .nav .menu {
+    font-size: 1.6rem;
+  }
+}
+
 .header .nav .menu i {
   margin-left: 1rem;
+}
+
+@media (max-width: 380px) {
+  .header .nav .menu i {
+    margin-left: 0.5rem;
+  }
 }
 
 .header .nav-item {
@@ -685,6 +703,13 @@ p {
 @media (max-width: 480px) {
   .banner h3 {
     font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .banner h3 {
+    font-size: 2.2rem;
+    margin-left: 0.5rem;
   }
 }
 
@@ -1227,6 +1252,18 @@ p {
   }
 }
 
+@media (max-width: 600px) {
+  .card-container .card {
+    width: 90%;
+  }
+}
+
+@media (max-width: 450px) {
+  .card-container .card {
+    width: 95%;
+  }
+}
+
 .card-container .card .front,
 .card-container .card .back {
   position: absolute;
@@ -1276,6 +1313,13 @@ p {
           backface-visibility: hidden;
 }
 
+@media (max-width: 400px) {
+  .card-container .card .front-btn {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+}
+
 .card-container .card .front p {
   padding: 0 2rem;
   font-size: 1.7rem;
@@ -1302,6 +1346,13 @@ p {
   text-decoration: underline;
 }
 
+@media (max-width: 400px) {
+  .card-container .card .back h4 {
+    justify-self: start;
+    margin-left: 1rem;
+  }
+}
+
 .card-container .card .back-btn {
   position: absolute;
   top: 1rem;
@@ -1309,6 +1360,13 @@ p {
   justify-self: center;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
+}
+
+@media (max-width: 400px) {
+  .card-container .card .back-btn {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
 }
 
 .card-container .card .back .house {
@@ -1404,7 +1462,7 @@ p {
   height: 15rem;
   position: relative;
   display: grid;
-  background: url("/images/welcome.jpg");
+  background: url("/images/Welcome.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -2393,6 +2451,15 @@ p {
   }
 }
 
+@media (max-width: 500px) {
+  .advice-content-container .advice-content-img img {
+    height: 90%;
+    width: 90%;
+    -webkit-transform: translateY(7rem);
+            transform: translateY(7rem);
+  }
+}
+
 .advice-end-container {
   background-color: #e8e8e8;
   grid-column: 1/-1;
@@ -2506,6 +2573,15 @@ p {
   }
 }
 
+@media (max-width: 500px) {
+  .fuel-content-container .fuel-content-img img {
+    height: 90%;
+    width: 90%;
+    -webkit-transform: translateY(7rem);
+            transform: translateY(7rem);
+  }
+}
+
 .fuel-end-container {
   grid-column: 1/-1;
   display: grid;
@@ -2580,6 +2656,13 @@ p {
   right: 6rem;
   font-size: 10rem;
   color: #de6f08;
+}
+
+@media (max-width: 500px) {
+  .contact-form-container i {
+    font-size: 7rem;
+    right: 4rem;
+  }
 }
 
 .contact-divider {

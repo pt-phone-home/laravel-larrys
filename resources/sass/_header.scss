@@ -116,8 +116,19 @@
                 font-size: 2rem;
             }
 
+            @media (max-width: 500px) {
+                font-size: 1.8rem;
+            }
+            @media (max-width: 350px) {
+                font-size: 1.6rem;
+            }
+
             i {
                 margin-left: 1rem;
+
+                @media (max-width: 380px) {
+                    margin-left: 0.5rem;
+                }
             }
         }
 

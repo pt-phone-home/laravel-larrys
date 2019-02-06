@@ -75,6 +75,12 @@
                     width: 50rem;
                     transform: translateY(7rem);
                 }
+
+                @media (max-width: 500px) {
+                    height: 90%;
+                    width: 90%;
+                    transform: translateY(7rem);
+                }
             }
         }
     }

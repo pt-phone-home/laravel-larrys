@@ -20,6 +20,13 @@
             margin: 0 auto;
         }
 
+        @media (max-width: 600px) {
+            width: 90%;
+        }
+        @media (max-width: 450px) {
+            width: 95%;
+        }
+
         // &:hover {
         //     transform: rotateY(180deg);
         // }
@@ -69,6 +76,11 @@
                 // width: 7rem;
                 justify-self: center;
                 backface-visibility: hidden;
+
+                @media (max-width: 400px) {
+                    top: 0.5rem;
+                    right: 0.5rem;
+                }
             }
 
             p {
@@ -92,6 +104,11 @@
                 color: $grey6;
                 justify-self: center;
                 text-decoration: underline;
+
+                @media (max-width: 400px) {
+                    justify-self: start;
+                    margin-left: 1rem;
+                }
             }
 
             &-btn {
@@ -102,6 +119,11 @@
                 // width: 7rem;
                 justify-self: center;
                 backface-visibility: hidden;
+
+                @media (max-width: 400px) {
+                    top: 0.5rem;
+                    right: 0.5rem;
+                }
             }
 
             .house {
@@ -210,7 +232,7 @@
 
     display: grid;
 
-    background: url("/images/welcome.jpg");
+    background: url("/images/Welcome.jpg");
     background-position: center;
     background-size: cover;
 

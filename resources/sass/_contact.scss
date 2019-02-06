@@ -46,6 +46,11 @@
         right: 6rem;
         font-size: 10rem;
         color: $primary-dark;
+
+        @media (max-width: 500px) {
+            font-size: 7rem;
+            right: 4rem;
+        }
     }
 }
 
