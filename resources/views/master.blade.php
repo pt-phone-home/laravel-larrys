@@ -20,5 +20,6 @@
     @yield('js')
 
     <script src="/js/app.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </body>
 </html>

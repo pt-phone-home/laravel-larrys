@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use App\Mail;
 use App\Mail\MessageFromWebsite;
 
+
 class PagesController extends Controller
 {
     public function index() {
@@ -28,6 +29,13 @@ class PagesController extends Controller
     }
     public function sendEmail(Request $request) {
         
+        $request->validate([
+            'name' => 'required',
+            'email' => 'required|email',
+            'message' => 'required',
+            'g-recaptcha-response' => 'required|captcha'
+        ]);
+
         $email = new Mail;
 
         $email->name = $request['name'];
@@ -35,8 +43,6 @@ class PagesController extends Controller
         $email->number = $request['number'];
         $email->message = $request['message'];
 
-       
-        
         \Mail::to('ptiernan@gmail.com')->send(
             new MessageFromWebsite($email)
         );

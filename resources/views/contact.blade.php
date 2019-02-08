@@ -27,12 +27,12 @@ Contact | Larry's DIY
         @include('inc.messages')
         <div class="form-group">
             <label for="name" class="">Name:</label>
-            <input type="text" name="name" placeholder="Your name" class="" required>
+            <input type="text" name="name" placeholder="Your name" class="" >
         </div>
 
         <div class="form-group">
             <label for="email" class="">Email:</label>
-            <input type="email" name="email" placeholder="Your email" class="" required>
+            <input type="email" name="email" placeholder="Your email" class="" required >
         </div>
 
         <div class="form-group">
@@ -41,10 +41,16 @@ Contact | Larry's DIY
         </div>
         <div class="form-group">
             <label for="message">Your Message: </label>
-            <textarea name="message" id="message" cols="30" rows="10" placeholder="Please enter your order or comments here"></textarea>
+            <textarea name="message" id="message" cols="30" rows="10" placeholder="Please enter your order or comments here" required></textarea>
         </div>
+<label for="ReCaptcha">Recaptcha:</label>
+{!! NoCaptcha::renderJs() !!}
+{!! NoCaptcha::display() !!}
+  {{-- </div>
+</div> --}}
 
         <button>Send</button>
+
         <i class="far fa-envelope"></i>
     </form>
 
