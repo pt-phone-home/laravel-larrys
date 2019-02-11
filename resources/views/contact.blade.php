@@ -27,25 +27,25 @@ Contact | Larry's DIY
         @include('inc.messages')
         <div class="form-group">
             <label for="name" class="">Name:</label>
-            <input type="text" name="name" placeholder="Your name" class="" >
+        <input type="text" name="name" placeholder="Your name" class="" required value="{{old('name')}}">
         </div>
 
         <div class="form-group">
             <label for="email" class="">Email:</label>
-            <input type="email" name="email" placeholder="Your email" class="" required >
+        <input type="email" name="email" placeholder="Your email" class="" required value="{{old('email')}}">
         </div>
 
         <div class="form-group">
             <label for="number" class="">Contact Number:</label>
-            <input type="number" name="number" class=""  placeholder="08......">
+        <input type="number" name="number" class="" value="{{old('number')}}" placeholder="08......">
         </div>
         <div class="form-group">
             <label for="message">Your Message: </label>
-            <textarea name="message" id="message" cols="30" rows="10" placeholder="Please enter your order or comments here" required></textarea>
+        <textarea name="message" id="message" cols="30" rows="10" placeholder="Please enter your order or comments here" required>{{old('message')}}</textarea>
         </div>
-<label for="ReCaptcha">Recaptcha:</label>
+<label for="ReCaptcha">Let us know you are Human!:</label>
 {!! NoCaptcha::renderJs() !!}
-{!! NoCaptcha::display() !!}
+{!! NoCaptcha::display(array('required' => 'required')) !!}
   {{-- </div>
 </div> --}}
 
