@@ -43,7 +43,7 @@ Contact | Larry's DIY
             <label for="message">Your Message: </label>
         <textarea name="message" id="message" cols="30" rows="10" placeholder="Please enter your order or comments here" required>{{old('message')}}</textarea>
         </div>
-<label for="ReCaptcha">Let us know you are Human!:</label>
+<label for="ReCaptcha">Please TICK THIS BOX to let us know you are Human!:</label>
 {!! NoCaptcha::renderJs() !!}
 {!! NoCaptcha::display(array('required' => 'required')) !!}
   {{-- </div>
