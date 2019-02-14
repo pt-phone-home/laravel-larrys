@@ -31,7 +31,7 @@
                            <h5>Storage Boxes</h5>
                            <h5>Shelving Units</h5>
                            <h5>Household Repairs</h5>
-                           <h5>Boxing Piles</h5>
+                           <h5>Boxing Pipes</h5>
                            <h5>Boxing ESB Meters</h5>
                            <h5>... &amp; much more</h5>
                        </div>
@@ -70,7 +70,7 @@
                             <h5>Drawing Boards</h5>
                             <h5>Boards for Paintings &amp; Mosaics</h5>
                             <h5>Boards for Flower Arranging</h5>
-                            <h5>Boards for Flower Jigsaws</h5>
+                            <h5>Boards for Jigsaws</h5>
                         <h5>Cake Boards</h5>
                         </div>
                         
