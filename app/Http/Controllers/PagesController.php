@@ -43,7 +43,7 @@ class PagesController extends Controller
         $email->number = $request['number'];
         $email->message = $request['message'];
 
-        \Mail::to('ptiernan@gmail.com')->send(
+        \Mail::to('info@larrysdiy.ie')->send(
             new MessageFromWebsite($email)
         );
 
