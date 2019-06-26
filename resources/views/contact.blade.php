@@ -96,7 +96,7 @@ Contact | Larry's DIY
                    <td>9am - 5:30pm</td>
                </tr>
                <tr>
-                   <td>Saturyday</td>
+                   <td>Saturday</td>
                    <td>9am - 4pm</td>
                </tr>
                <tr>
@@ -109,7 +109,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-           <p><strong>Larry's will be closed on Sat 29th June 2019 for the bank holdiay weekend</strong></p>
+           <p><strong>Larry's will be closed on Sat 29th June 2019 </strong></p>
         </div>
         
     </div>
