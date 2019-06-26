@@ -109,6 +109,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
+           <p><strong>Larry's will be closed on Sat 29th June 2019 for the bank holdiay weekend</strong></p>
         </div>
         
     </div>
