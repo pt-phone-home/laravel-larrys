@@ -1298,6 +1298,7 @@ p {
           transform: rotateY(180deg);
   background: linear-gradient(to top right, #f8f8f8 50%, #989898);
   padding-top: 1rem;
+  z-index: 1000;
 }
 
 .card-container .card .back h4 {
