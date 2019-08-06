@@ -37,7 +37,7 @@ Wood Cutting Specialists | Larry's DIY
             </div>
 
             <div class="wood-2-img">
-                <img src="/images/wood_cutting_2.jpg" alt="" class="">
+                <img src="/images/wood_cutting_22.jpg" alt="" class="">
 
             </div>
     </div>
@@ -46,7 +46,7 @@ Wood Cutting Specialists | Larry's DIY
 <div class="wood-3-container">
     <div class="wood-3">
         <div class="wood-3-img">
-            <img src="/images/wood_cutting_4.jpg" alt="" class="">
+            <img src="/images/wood_cutting_42.jpg" alt="" class="">
         </div>
         <div class="wood-3-text">
             <p>If you have purchased material elsewhere and need it cut or shaped, we would be happy to help. For more information on our cutting services just give Fiona or Robbie a call on <span>01 837 3490 </span> or send your questions via our contact page. </p>

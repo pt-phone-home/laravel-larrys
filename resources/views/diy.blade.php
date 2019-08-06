@@ -85,7 +85,7 @@ DIY Supplies | Larry's DIY
         </div>
 
         <div class="diy-2-img">
-            <img src="/images/diy_2.jpg" class="" alt="">
+            <img src="/images/diy_22.jpg" class="" alt="">
         </div>
     </div>
 </div>

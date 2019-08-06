@@ -21,7 +21,7 @@ Expert Advice | Larry's DIY
 <div class="advice-content-container">
     <div class="advice-content">
         <div class="advice-content-img ">
-            <img src="/images/advice_1.jpg" alt="" class="">
+            <img src="/images/advice_12.jpg" alt="" class="">
         </div>
     </div>
 </div>

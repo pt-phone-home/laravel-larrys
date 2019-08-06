@@ -20,7 +20,7 @@ Fuel Sales | Larry's DIY
 <div class="fuel-content-container">
     <div class="fuel-content">
         <div class="fuel-content-img">
-            <img src="/images/fuel_3.jpg" class="" alt="">
+            <img src="/images/fuel_32.jpg" class="" alt="">
         </div>
         <div class="fuel-content-text">
 
@@ -34,7 +34,7 @@ Fuel Sales | Larry's DIY
         <p class="">We stock all types of fuel for Stoves &amp; Open Fires. <br> <br>
 
         Coal, Briquettes, Turf, Eco-Logs, Kindling, Waxies, Softwood Logs &amp; Kiln-dried Hardwood Logs.<br> <br>
-                
+
         Drop in or give us a call on 01 837 3490 to find out about our special offers and bundle deals in store.</p>
     </div>
 </div>

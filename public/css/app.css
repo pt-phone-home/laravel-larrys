@@ -569,7 +569,7 @@ p {
 .banner {
   grid-column: 1/-1;
   height: 60rem;
-  background: url("/images/Welcome.jpg");
+  background: url("/images/Welcome2.jpg");
   background-size: cover;
   background-position: top;
   position: relative;
@@ -1423,7 +1423,7 @@ p {
   height: 15rem;
   position: relative;
   display: grid;
-  background: url("/images/Welcome.jpg");
+  background: url("/images/Welcome2.jpg");
   background-position: center;
   background-size: cover;
 }
