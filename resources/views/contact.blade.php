@@ -18,7 +18,7 @@ Contact | Larry's DIY
 </div>
 
 <div class="contact-form-container">
-    
+
     <h2 class="">Send us a message</h2>
     <p class="">Use the contact form below to ask us a question or place an order. Please provide your full name, email address and contact number so that we can get in touch. Also, please give as much detail in the box provided about your question or your order.</p>
 
@@ -54,7 +54,7 @@ Contact | Larry's DIY
         <i class="far fa-envelope"></i>
     </form>
 
-    
+
 </div>
 
 <div class="contact-divider">
@@ -109,9 +109,9 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-           <p><strong>Larry's will be closed on Sat 29th June 2019 </strong></p>
+           <p class="opening-notice"><strong>Larry's DIY are closed for a weeks holidays from Monday the 30th of September. We reopen on Tuesday the 8th of October at 9am. </strong></p>
         </div>
-        
+
     </div>
 </div>
 

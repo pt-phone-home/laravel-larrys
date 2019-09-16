@@ -1,3 +1,13 @@
+.index-opening {
+    grid-column: 1 / -1;
+    height: 5rem;
+}
+
+.index-opening-notice {
+    background-color: rgb(235, 232, 232);
+    padding: 2rem;
+}
+
 .banner {
     grid-column: 1 / -1;
     height: 60rem;
@@ -17,9 +27,11 @@
         left: 0;
         height: 100%;
         width: 100%;
-        background: linear-gradient(to right bottom,
-                rgba(7, 8, 9, 0.7),
-                rgba(8, 9, 10, 0.7));
+        background: linear-gradient(
+            to right bottom,
+            rgba(7, 8, 9, 0.7),
+            rgba(8, 9, 10, 0.7)
+        );
     }
 
     .title_1 {

@@ -5,6 +5,9 @@
 @endsection
 
 @section('content')
+<div class="index-opening">
+    <p class="index-opening-notice">Larry's DIY will close for a weeks holidays from <strong>Monday the 30th of September</strong>. We reopen on <strong> Tuesday the 8th of October at 9am</strong>. </p>
+</div>
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>
@@ -42,7 +45,7 @@
                            <h5>Garden Storage</h5>
                            <h5>Garden Planters</h5>
                            <h5>... &amp; much more</h5>
-                           
+
                        </div>
                     </div>
                 </div>
@@ -73,15 +76,15 @@
                             <h5>Boards for Jigsaws</h5>
                         <h5>Cake Boards</h5>
                         </div>
-                        
-                        
+
+
 
                     </div>
                 </div>
-    
+
             </div>
         </div>
-        
+
     </div>
     <div class="services-divider">
         <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1441 215.71"><rect x="0.5" y="0.5" width="1440" height="107.86" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/><rect x="0.5" y="109.21" width="1440" height="106" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/><rect x="1224.5" y="0.5" width="216" height="108" fill="#f99637" stroke="#f99637" stroke-miterlimit="10"/><path d="M1299.93,327.29c-26.58,11.54-53.46,15.83-75.93,13.51-24.77-2.55-44.18-13.14-51.88-30.9-10-23,2.18-52,28.46-75.9h177.13C1381.39,266.28,1349.51,305.78,1299.93,327.29Z" transform="translate(0.5 -233.5)" fill="#e8e8e8" stroke="#e8e8e8" stroke-miterlimit="10"/></svg>
@@ -145,7 +148,7 @@
 
         </div>
         <div class="about-us-divider">
-                
+
         </div>
 
         <div class="about-us-reviews">
@@ -189,5 +192,5 @@
 
         </div>
     </div>
-    
+
 @endsection
