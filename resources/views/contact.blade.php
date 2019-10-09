@@ -109,7 +109,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-           <p class="opening-notice"><strong>Larry's DIY are closed for a weeks holidays from Monday the 30th of September. We reopen on Tuesday the 8th of October at 9am. </strong></p>
+           {{-- <p class="opening-notice"><strong>Larry's DIY are closed for a weeks holidays from Monday the 30th of September. We reopen on Tuesday the 8th of October at 9am. </strong></p> --}}
         </div>
 
     </div>
