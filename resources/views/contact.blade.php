@@ -110,6 +110,12 @@ Contact | Larry's DIY
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
            {{-- <p class="opening-notice"><strong>Larry's DIY are closed for a weeks holidays from Monday the 30th of September. We reopen on Tuesday the 8th of October at 9am. </strong></p> --}}
+           <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
+               <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2019</strong></p>
+               <p>We will be closing at <strong>4pm on Saturday the 21st of December 2019</strong> and re-opening at <strong>9am on Thursday the 2nd of January 2020.</strong></p>
+               <p>Don't forget to stock up on your fuel for the Christmas period</p>
+               <p>We wish all our customers a Merry Christmas and a Happy New Year</p>
+           </div>
         </div>
 
     </div>
