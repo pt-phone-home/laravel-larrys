@@ -5,9 +5,9 @@
 @endsection
 
 @section('content')
-{{-- <div class="index-opening">
+<div class="index-opening">
     <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>
-</div> --}}
+</div>
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>

@@ -109,13 +109,13 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-           {{-- <p class="opening-notice"><strong>Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </strong></p> --}}
-           <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
+           <p class="opening-notice"><strong>Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </strong></p>
+           {{--  <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2019</strong></p>
                <p>We will be closing at <strong>4pm on Saturday the 21st of December 2019</strong> and re-opening at <strong>9am on Thursday the 2nd of January 2020.</strong></p>
                <p>Don't forget to stock up on your fuel for the Christmas period</p>
                <p>We wish all our customers a Merry Christmas and a Happy New Year</p>
-           </div>
+           </div>  --}}
         </div>
 
     </div>
