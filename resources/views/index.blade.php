@@ -6,7 +6,7 @@
 
 @section('content')
 {{-- <div class="index-opening">
-    <p class="index-opening-notice">Larry's DIY will close for a weeks holidays from <strong>Monday the 30th of September</strong>. We reopen on <strong> Tuesday the 8th of October at 9am</strong>. </p>
+    <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>
 </div> --}}
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
