@@ -8,28 +8,11 @@
 <div class="index-opening">
     {{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
     <p class="index-opening-notice"><strong>To our valued customers,</strong></p>
-    <p class="index-opening-notice">In the interest of health and safety surrounding the latest developments regarding Covid-19, we will strictly operate via phone and email as of <strong>Tuesday, 24th of March. </strong>.
-
-        <br><br>
-        We have made this decision to limit human contact and adhere to social distancing guidelines as set out by the HSE. This is for the well-being of both our staff, our families and you, our valued customers. 
+    <p class="index-opening-notice">Following the most recent government announcement Larry’s D.I.Y will be closed with immediate effect until the 14th of April. <br> <br>
         
-        
-        <br><br>
-        Orders can be made by email at info@larrysdiy.ie or by phone at 0868330349 or 01-8373490. Upon ordering we will contact customers with a time for collection of their order provided this is a viable option.
-        
-        
-        <br><br>
-        We apologise for any inconvenience this may cause and hope you will continue to avail of our services whilst we do our part to help our community through this difficult time. 
-        
-        
-        <br><br>
-        We look forward to seeing you all back in the shop in the near future. 
-        
-       <br><br>
-        Kind Regards, 
-        
-        <br><br>
-        Larry’s DIY Management. 
+    We look forward to seeing you all soon and wish you and your families good health over the coming weeks. Stay safe and well.
+    <br><br>
+    Fiona & Robbie.
         
         </p>
 </div>
