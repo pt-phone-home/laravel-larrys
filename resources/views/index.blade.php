@@ -8,17 +8,23 @@
 <div class="index-opening">
     {{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
     <p class="index-opening-notice"><strong>To our valued customers,</strong></p>
-    <p class="index-opening-notice">We will be open on Friday 3rd and Saturday 4th of April from 10am-1pm for Fuel Sales Only. <br> <br>
-        
-        To avoid queuing and to observe social distancing, you can place your order by calling 01-8373490 or 0868330349 and leaving a message with your name and number or by e-mail at info@larrysdiy.ie and we will get back to you regarding your order <br> <br>
-        Please note this is strictly for fuel sales only! 
-        
+    <p class="index-opening-notice">
+        Just to keep everyone updated on the current situation, please see the link below.
         <br><br>
-        Thank you.
-        
-    <br><br>
-    Fiona & Robbie.
-        
+ 
+
+We are still available for fuel.
+<br> <br>
+
+ 
+
+We will keep you updated with any further developments. 
+<br> <br>
+
+More information available <a target="_blank" href="https://m.independent.ie/world-news/coronavirus/hardware-stores-told-not-to-open-to-public-39140404.html">Here</a>
+
+<br><br>
+Thank you, Fiona and Robbie.
         </p>
 </div>
     <div class="banner">
