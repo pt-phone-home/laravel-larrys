@@ -7,25 +7,20 @@
 @section('content')
 <div class="index-opening">
     {{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
-    <p class="index-opening-notice"><strong>To our valued customers,</strong></p>
-    <p class="index-opening-notice">
-        Just to keep everyone updated on the current situation, please see the link below.
-        <br><br>
- 
-
-We are still available for fuel.
-<br> <br>
-
- 
-
-We will keep you updated with any further developments. 
-<br> <br>
-
-More information available <a target="_blank" href="https://m.independent.ie/world-news/coronavirus/hardware-stores-told-not-to-open-to-public-39140404.html">Here</a>
-
-<br><br>
-Thank you, Fiona and Robbie.
-        </p>
+    <p class="index-opening-notice"><strong>To our valued customers,</strong>
+        <h2 style="padding-left: 1rem;">IMPORTANT ANNOUNCEMENT!</h2>
+            <br>
+            <span style="padding-left: 1rem;">We are happy to announce that we will be open again for business from Monday 18th of May.</span>
+            <br><br>
+            <span style="padding-left: 1rem;">To keep our customers and staff safe, we will continue to operate primarily through online and phone orders to limit contact and keep within social distancing guidelines.</span>
+            <br><br>
+            <span style="padding-left: 1rem;">To make an order or enquiry, please call 01-8373490 or 086-833-0349.</span>
+            <br><br>
+            <span style="padding-left: 1rem;">You can also email your order to info@larrysdiy.ie. We look forward to hearing from you all soon.</span>
+            
+            <br><br>
+            <span style="padding-left: 1rem;">Thank you, Fiona and Robbie.   </span>
+    </p>
 </div>
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
