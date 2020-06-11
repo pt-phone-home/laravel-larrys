@@ -8,18 +8,19 @@
 <div class="index-opening">
     {{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
     <p class="index-opening-notice"><strong>To our valued customers,</strong>
-        <h2 style="padding-left: 1rem;">IMPORTANT ANNOUNCEMENT!</h2>
+
             <br>
-            <span style="padding-left: 1rem;">We are happy to announce that we will be open again for business from Monday 18th of May.</span>
+            <span style="padding-left: 1rem;">It has been great to see so many of you back through our doors over the past couple of weeks, but due to the high volume of orders we have received, we will temporarily be changing our opening hours to the following;</span>
             <br><br>
-            <span style="padding-left: 1rem;">To keep our customers and staff safe, we will continue to operate primarily through online and phone orders to limit contact and keep within social distancing guidelines.</span>
+            <span style="padding-left: 1rem;">Tuesday- Friday: 10am-4pm. Closed for Lunch 1pm-2pm</span>
             <br><br>
-            <span style="padding-left: 1rem;">To make an order or enquiry, please call 01-8373490 or 086-833-0349.</span>
+            <span style="padding-left: 1rem;">Saturday- 10am-2pm</span>
             <br><br>
-            <span style="padding-left: 1rem;">You can also email your order to info@larrysdiy.ie. We look forward to hearing from you all soon.</span>
-            
+            <span style="padding-left: 1rem;">This will be a short-term change to allow us to keep on top of the high volume of orders coming through and process your orders in a timely manner.</span>
             <br><br>
-            <span style="padding-left: 1rem;">Thank you, Fiona and Robbie.   </span>
+        <span style="padding-left: 1rem;">Thank you for your understanding and patience during these changing times.</span>
+            <br><br>
+            <span style="padding-left: 1rem;">Fiona and Robbie.   </span>
     </p>
 </div>
     <div class="banner">
