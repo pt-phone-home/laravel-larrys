@@ -7,20 +7,20 @@
 @section('content')
 <div class="index-opening">
     {{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
-    <p class="index-opening-notice"><strong>To our valued customers,</strong>
+    <p class="index-opening-notice"><strong>Please note,</strong>
 
             <br>
-            <span style="padding-left: 1rem;">It has been great to see so many of you back through our doors over the past couple of weeks, but due to the high volume of orders we have received, we will temporarily be changing our opening hours to the following;</span>
+            <span style="padding-left: 1rem;">Due to the Sudden death of Sheila Gains, my Mother and Co-Owner of Larry’s D.I.Y, the shop will remain closed until further notice.
+(Non-Covid Related)
+            </span>
             <br><br>
-            <span style="padding-left: 1rem;">Tuesday- Friday: 10am-4pm. Closed for Lunch 1pm-2pm</span>
+            <span style="padding-left: 1rem;">For any queries regarding collection of orders already placed, please call 089-475-3986.
+
+</span>
             <br><br>
-            <span style="padding-left: 1rem;">Saturday- 10am-2pm</span>
+        <span style="padding-left: 1rem;">Thank you</span>
             <br><br>
-            <span style="padding-left: 1rem;">This will be a short-term change to allow us to keep on top of the high volume of orders coming through and process your orders in a timely manner.</span>
-            <br><br>
-        <span style="padding-left: 1rem;">Thank you for your understanding and patience during these changing times.</span>
-            <br><br>
-            <span style="padding-left: 1rem;">Fiona and Robbie.   </span>
+            <span style="padding-left: 1rem;">Fiona</span>
     </p>
 </div>
     <div class="banner">
