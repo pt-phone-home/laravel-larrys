@@ -7,17 +7,17 @@
 @section('content')
 <div class="index-opening">
     {{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
-    <p class="index-opening-notice"><strong>To all our customers</strong>
+    <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
 
             <br>
-            <span style="padding-left: 1rem;">Larry's DIY is now open again and will return to our adjusted opening times:
+            <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from
             </span>
             <br><br>
-            <span style="padding-left: 1rem;">Tuesday - Friday: 10am - 4pm. Closed for lunch 1pm - 2pm
+            <span style="padding-left: 1rem;">2pm on Sat 19th of September until
 
 </span>
         <br><br>
-        <span style="padding-left: 1rem;">Saturday: 10am - 2pm
+        <span style="padding-left: 1rem;">10am on Tues 29th September
 
 </span>
             <br><br>
