@@ -5,27 +5,27 @@
 @endsection
 
 @section('content')
-<div class="index-opening">
-    {{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
-    <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
+{{--<div class="index-opening">--}}
+{{--    --}}{{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
+{{--    <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>--}}
 
-            <br>
-            <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from
-            </span>
-            <br><br>
-            <span style="padding-left: 1rem;">2pm on Sat 19th of September until
+{{--            <br>--}}
+{{--            <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from--}}
+{{--            </span>--}}
+{{--            <br><br>--}}
+{{--            <span style="padding-left: 1rem;">2pm on Sat 19th of September until--}}
 
-</span>
-        <br><br>
-        <span style="padding-left: 1rem;">10am on Tues 29th September
+{{--</span>--}}
+{{--        <br><br>--}}
+{{--        <span style="padding-left: 1rem;">10am on Tues 29th September--}}
 
-</span>
-            <br><br>
-        <span style="padding-left: 1rem;">Thank you</span>
-            <br><br>
-            <span style="padding-left: 1rem;">Fiona & Robbie</span>
-    </p>
-</div>
+{{--</span>--}}
+{{--            <br><br>--}}
+{{--        <span style="padding-left: 1rem;">Thank you</span>--}}
+{{--            <br><br>--}}
+{{--            <span style="padding-left: 1rem;">Fiona & Robbie</span>--}}
+{{--    </p>--}}
+{{--</div>--}}
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>
