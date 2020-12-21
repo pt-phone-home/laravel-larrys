@@ -111,11 +111,15 @@ Contact | Larry's DIY
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
 {{--           <p class="opening-notice"><strong>Larry's DIY will be closed for holidays from <strong>2pm on Sat 19th of September</strong> until<strong> 10am on Tues 29th of September</strong>. </strong></p>--}}
            {{--  <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
-               <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2019</strong></p>
-               <p>We will be closing at <strong>4pm on Saturday the 21st of December 2019</strong> and re-opening at <strong>9am on Thursday the 2nd of January 2020.</strong></p>
+               <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2020</strong></p>
+               <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
                <p>Don't forget to stock up on your fuel for the Christmas period</p>
-               <p>We wish all our customers a Merry Christmas and a Happy New Year</p>
+               <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p>
+               <p> Fiona &amp; Robbie</p>
            </div>  --}}
+            <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
+            <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p>
+            <p> Fiona &amp; Robbie</p>
         </div>
 
     </div>
