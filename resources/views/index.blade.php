@@ -5,8 +5,10 @@
 @endsection
 
 @section('content')
-{{--<div class="index-opening">--}}
-{{--    --}}{{--  <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>  --}}
+<div class="index-opening">
+{{--      <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>--}}
+    <p class="index-opening-notice">To our valued customers,</p> <br>
+    <p class="index-opening-notice">As of Wednesday 6th of January we will be operating behind closed doors to limit contact during the current level 5 restrictions. You can place your order by email at info@larrysdiy.ie or call 01 8373490 or 086 8330349. The shop yard will be open for fuel sales and collections only</p>
 {{--    <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>--}}
 
 {{--            <br>--}}
@@ -21,11 +23,11 @@
 
 {{--</span>--}}
 {{--            <br><br>--}}
-{{--        <span style="padding-left: 1rem;">Thank you</span>--}}
-{{--            <br><br>--}}
-{{--            <span style="padding-left: 1rem;">Fiona & Robbie</span>--}}
-{{--    </p>--}}
-{{--</div>--}}
+        <span style="padding-left: 1rem;">Thank you</span>
+            <br><br>
+            <span style="padding-left: 1rem;">Fiona & Robbie</span>
+    </p>
+</div>
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>
