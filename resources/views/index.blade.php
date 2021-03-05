@@ -7,7 +7,7 @@
 @section('content')
 <div class="index-opening">
 {{--      <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>--}}
-    <p class="index-opening-notice">To our valued customers,<br> As of Wednesday 6th of January we will be operating behind closed doors to limit contact during the current level 5 restrictions. You can place your order by email at info@larrysdiy.ie or call 01 8373490 or 086 8330349. The shop yard will be open for fuel sales and collections only
+    <p class="index-opening-notice">To our valued customers,<br> We have currently suspending our walk in cutting service(while you wait) to limit contact during the current level 5 restrictions. You can place your order in advance by email at info@larrysdiy.ie or call 01 8373490 or 0868330349. The shop yard will be open for fuel sales and collection of pre-ordered timber or to drop in an order. See our contact page for current opening hours.
     <br>
         Thank you <br>
         Fiona & Robbie
