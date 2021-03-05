@@ -73,7 +73,8 @@ Contact | Larry's DIY
         </div>
 
         <div class="opening ml-4">
-           <h1>Our Opening Times</h1>
+           {{-- <h1>Our Opening Times</h1> --}}
+           <h1>Current opening hours due to Covid restrictions</h1>
            <table>
                <tr>
                    <td>Monday</td>
@@ -81,15 +82,18 @@ Contact | Larry's DIY
                </tr>
                <tr>
                    <td>Tuesday</td>
-                   <td>9am - 5:30pm</td>
+                   {{-- <td>9am - 5:30pm</td> --}}
+                   <td>10am - 4pm</td>
                </tr>
                <tr>
                    <td>Wednesday</td>
-                   <td>9am - 5:30pm</td>
+                   {{-- <td>9am - 5:30pm</td> --}}
+                   <td>10am - 4pm</td>
                </tr>
                <tr>
                    <td>Thursday</td>
-                   <td>9am - 5:30pm</td>
+                   {{-- <td>9am - 5:30pm</td> --}}
+                   <td>10am - 4pm</td>
                </tr>
                <tr>
                    <td>Friday</td>
@@ -97,7 +101,8 @@ Contact | Larry's DIY
                </tr>
                <tr>
                    <td>Saturday</td>
-                   <td>9am - 4pm</td>
+                   {{-- <td>9am - 4pm</td> --}}
+                   <td>10am - 2pm</td>
                </tr>
                <tr>
                    <td>Sunday</td>
@@ -117,8 +122,10 @@ Contact | Larry's DIY
                <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p>
                <p> Fiona &amp; Robbie</p>
            </div>  --}}
-            <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
-            <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p>
+            {{-- <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
+            <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p> --}}
+            <p>Please note we will be closed from 4pm Friday the 12th of March until 10am Thursday 18th of March (N.B. This is not Covid Related or for Travel Purposes)</p>
+            <p>We will also be closed Easter Weekend, closing 4pm Thursday April 1st and re-opening Tuesday April 6th.</p>
             <p> Fiona &amp; Robbie</p>
         </div>
 
