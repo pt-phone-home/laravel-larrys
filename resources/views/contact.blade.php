@@ -97,7 +97,8 @@ Contact | Larry's DIY
                </tr>
                <tr>
                    <td>Friday</td>
-                   <td>9am - 5:30pm</td>
+                   {{-- <td>9am - 5:30pm</td> --}}
+                   <td>10am - 4pm</td>
                </tr>
                <tr>
                    <td>Saturday</td>
