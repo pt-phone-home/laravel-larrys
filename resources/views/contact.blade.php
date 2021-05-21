@@ -125,8 +125,8 @@ Contact | Larry's DIY
            </div>  --}}
             {{-- <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
             <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p> --}}
-            <p>Please note we will be closed from 4pm Friday the 12th of March until 10am Thursday 18th of March (N.B. This is not Covid Related or for Travel Purposes)</p>
-            <p>We will also be closed Easter Weekend, closing 4pm Thursday April 1st and re-opening Tuesday April 6th.</p>
+            <p>Please note we will be closed for the June bank holiday weekend from 4pm Friday the 4th of June until 10am Wednesday the 9th of June </p>
+{{--            <p>We will also be closed Easter Weekend, closing 4pm Thursday April 1st and re-opening Tuesday April 6th.</p>--}}
             <p> Fiona &amp; Robbie</p>
         </div>
 
