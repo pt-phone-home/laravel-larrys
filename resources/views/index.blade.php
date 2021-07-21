@@ -25,10 +25,7 @@
        <span style="padding-left: 1rem;">10am on Tues 17th August
 
 </span>
-           <br><br>
-       <p style="padding-left: 1rem;">Thank you</p>
-           <br><br>
-           <span style="padding-left: 1rem;">Fiona & Robbie</span>
+           
 </div>
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
