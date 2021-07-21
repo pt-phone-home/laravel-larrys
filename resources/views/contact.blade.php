@@ -115,7 +115,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-{{--           <p class="opening-notice"><strong>Larry's DIY will be closed for holidays from <strong>2pm on Sat 19th of September</strong> until<strong> 10am on Tues 29th of September</strong>. </strong></p>--}}
+          <p class="opening-notice"><strong>Larry's DIY will be closed for holidays from <strong>2pm on Sat 7th of August</strong> until<strong> 10am on Tues 17th of August</strong>. </strong></p>
            {{--  <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2020</strong></p>
                <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>

@@ -12,23 +12,23 @@
         Thank you <br>
         Fiona & Robbie
     </p>
-{{--    <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>--}}
+<p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
 
-{{--            <br>--}}
-{{--            <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from--}}
-{{--            </span>--}}
-{{--            <br><br>--}}
-{{--            <span style="padding-left: 1rem;">2pm on Sat 19th of September until--}}
+           <br>
+           <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from
+           </span>
+           <br><br>
+           <span style="padding-left: 1rem;">2pm on Sat 7th of August until
 
-{{--</span>--}}
-{{--        <br><br>--}}
-{{--        <span style="padding-left: 1rem;">10am on Tues 29th September--}}
+</span>
+       <br><br>
+       <span style="padding-left: 1rem;">10am on Tues 17th August
 
-{{--</span>--}}
-{{--            <br><br>--}}
-{{--        <p style="padding-left: 1rem;">Thank you</p>--}}
-{{--            <br><br>--}}
-{{--            <span style="padding-left: 1rem;">Fiona & Robbie</span>--}}
+</span>
+           <br><br>
+       <p style="padding-left: 1rem;">Thank you</p>
+           <br><br>
+           <span style="padding-left: 1rem;">Fiona & Robbie</span>
 </div>
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
