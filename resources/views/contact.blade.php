@@ -115,7 +115,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-          <p class="opening-notice"><strong>Larry's DIY will be closed for holidays from <strong>2pm on Sat 7th of August</strong> until<strong> 10am on Tues 17th of August</strong>. </strong></p>
+{{--          <p class="opening-notice"><strong>Larry's DIY will be closed for holidays from <strong>2pm on Sat 7th of August</strong> until<strong> 10am on Tues 17th of August</strong>. </strong></p>--}}
            {{--  <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2020</strong></p>
                <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
@@ -125,9 +125,9 @@ Contact | Larry's DIY
            </div>  --}}
             {{-- <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
             <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p> --}}
-            <p>Please note we will be closed for the June bank holiday weekend from 4pm Friday the 4th of June until 10am Wednesday the 9th of June </p>
+{{--            <p>Please note we will be closed for the June bank holiday weekend from 4pm Friday the 4th of June until 10am Wednesday the 9th of June </p>--}}
 {{--            <p>We will also be closed Easter Weekend, closing 4pm Thursday April 1st and re-opening Tuesday April 6th.</p>--}}
-            <p> Fiona &amp; Robbie</p>
+{{--            <p> Fiona &amp; Robbie</p>--}}
         </div>
 
     </div>
