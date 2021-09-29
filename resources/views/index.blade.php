@@ -139,6 +139,7 @@
                 <img src="/images/fuel.jpg" alt="">
                 <a href="/fuel" class="btn services-link">Fuel Sales</a>
                 <p>Fuel for Stoves &amp; Open Fires. Special offers available in store.</p>
+                <p><strong>Winter fuels are back in stock from the 1st October 2021</strong></p>
 
             </div>
 

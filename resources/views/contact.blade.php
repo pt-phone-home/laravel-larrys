@@ -74,7 +74,7 @@ Contact | Larry's DIY
 
         <div class="opening ml-4">
            {{-- <h1>Our Opening Times</h1> --}}
-           <h1>Current opening hours due to Covid restrictions</h1>
+           <h1>From Tuesday 5th October 2021, our opening ours will change to:</h1>
            <table>
                <tr>
                    <td>Monday</td>
@@ -83,22 +83,22 @@ Contact | Larry's DIY
                <tr>
                    <td>Tuesday</td>
                    {{-- <td>9am - 5:30pm</td> --}}
-                   <td>10am - 4pm</td>
+                   <td>10am - 5pm</td>
                </tr>
                <tr>
                    <td>Wednesday</td>
                    {{-- <td>9am - 5:30pm</td> --}}
-                   <td>10am - 4pm</td>
+                   <td>10am - 5pm</td>
                </tr>
                <tr>
                    <td>Thursday</td>
                    {{-- <td>9am - 5:30pm</td> --}}
-                   <td>10am - 4pm</td>
+                   <td>10am - 5pm</td>
                </tr>
                <tr>
                    <td>Friday</td>
                    {{-- <td>9am - 5:30pm</td> --}}
-                   <td>10am - 4pm</td>
+                   <td>10am - 5pm</td>
                </tr>
                <tr>
                    <td>Saturday</td>
