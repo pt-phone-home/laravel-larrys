@@ -5,28 +5,31 @@
 @endsection
 
 @section('content')
-{{--<div class="index-opening">--}}
-{{--      <p class="index-opening-notice">Larry's DIY will close this <strong>Saturday the 14th of March at 1pm instead of 4pm</strong>. We reopen on <strong> Wednesday the 18th of March at 9am</strong>. </p>--}}
-{{--    <p class="index-opening-notice">To our valued customers,<br> We have currently suspending our walk in cutting service (while you wait) to limit contact during the current level 5 restrictions. You can place your order in advance by email at info@larrysdiy.ie or call 01 8373490 or 0868330349. The shop yard will be open for fuel sales and collection of pre-ordered timber or to drop in an order. See our contact page for current opening hours.--}}
-{{--    <br>--}}
-{{--        Thank you <br>--}}
-{{--        Fiona & Robbie--}}
-{{--    </p>--}}
-{{--<p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>--}}
+<div class="index-opening">
+     <p class="index-opening-notice"><strong>CHRISTMAS HOLIDAYS 2021</strong>.
+   <p class="index-opening-notice">We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
+    <br>RE-OPENING on Saturday 8th Jan 10am - 3pm for fuel. 
+    <br>RE-OPENING as normal 10am Tuesday 11th Jan.
+    <br> Wishing you all a very happy and healthy Christmas. 
+   <br>
+       Thank you <br>
+       Fiona & Robbie
+   </p>
+{{-- <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
 
-{{--           <br>--}}
-{{--           <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from--}}
-{{--           </span>--}}
-{{--           <br><br>--}}
-{{--           <span style="padding-left: 1rem;">2pm on Sat 7th of August until--}}
+          <br>
+          <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from
+          </span>
+          <br><br>
+          <span style="padding-left: 1rem;">2pm on Sat 7th of August until
 
-{{--</span>--}}
-{{--       <br><br>--}}
-{{--       <span style="padding-left: 1rem;">10am on Tues 17th August--}}
+    </span>
+      <br><br>
+      <span style="padding-left: 1rem;">10am on Tues 17th August
 
-{{--</span>--}}
-{{--           --}}
-{{--</div>--}}
+</span> --}}
+         
+</div>
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>
