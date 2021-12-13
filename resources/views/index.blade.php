@@ -8,7 +8,7 @@
 <div class="index-opening">
      <p class="index-opening-notice"><strong>CHRISTMAS HOLIDAYS 2021</strong>.
    <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
-    <br>RE-OPENING on Saturday 8th Jan 10am - 3pm for fuel. 
+    <br>RE-OPENING on Saturday 8th Jan 10am - 2pm for fuel. 
     <br>RE-OPENING as normal 10am Tuesday 11th Jan.
     <br> Wishing you all a very happy and healthy Christmas. 
    <br>

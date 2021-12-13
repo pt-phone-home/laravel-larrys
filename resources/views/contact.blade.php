@@ -119,7 +119,7 @@ Contact | Larry's DIY
             <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2021</strong></p>
                <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
-               <br>RE-OPENING on Saturday 8th Jan 10am - 3pm for fuel. 
+               <br>RE-OPENING on Saturday 8th Jan 10am - 2pm for fuel. 
                <br>RE-OPENING as normal 10am Tuesday 11th Jan.
            </div> 
             {{-- <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
