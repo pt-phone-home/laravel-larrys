@@ -29,7 +29,7 @@
 
 </span> --}}
          
-</div> --}}
+{{-- </div> --}}
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>
