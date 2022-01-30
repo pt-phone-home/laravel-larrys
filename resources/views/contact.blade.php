@@ -116,12 +116,12 @@ Contact | Larry's DIY
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
 {{--          <p class="opening-notice"><strong>Larry's DIY will be closed for holidays from <strong>2pm on Sat 7th of August</strong> until<strong> 10am on Tues 17th of August</strong>. </strong></p>--}}
-            <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
+            {{-- <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2021</strong></p>
                <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
                <br>RE-OPENING on Saturday 8th Jan 10am - 2pm for fuel. 
                <br>RE-OPENING as normal 10am Tuesday 11th Jan.
-           </div> 
+           </div>  --}}
             {{-- <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
             <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p> --}}
 {{--            <p>Please note we will be closed for the June bank holiday weekend from 4pm Friday the 4th of June until 10am Wednesday the 9th of June </p>--}}

@@ -5,8 +5,8 @@
 @endsection
 
 @section('content')
-<div class="index-opening">
-     <p class="index-opening-notice"><strong>CHRISTMAS HOLIDAYS 2021</strong>.
+{{-- <div class="index-opening">
+     {{-- <p class="index-opening-notice"><strong>CHRISTMAS HOLIDAYS 2021</strong>.
    <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
     <br>RE-OPENING on Saturday 8th Jan 10am - 2pm for fuel. 
     <br>RE-OPENING as normal 10am Tuesday 11th Jan.
@@ -14,7 +14,7 @@
    <br>
        Thank you <br>
        Fiona & Robbie
-   </p>
+   </p> --}}
 {{-- <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
 
           <br>
@@ -29,7 +29,7 @@
 
 </span> --}}
          
-</div>
+</div> --}}
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>
