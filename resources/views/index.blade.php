@@ -6,13 +6,13 @@
 
 @section('content')
 <div class="index-opening">
-     <p class="index-opening-notice"><strong>Larry's DIY closed for family occasion</strong>.
+     <p class="index-opening-notice"><strong>ANNUAL HOLIDAYS 2022</strong>.
    {{-- <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec.  --}}
-    <br>Larry's DIY will be closed on Tuesday 21st of June 2022 
-    <br>RE-OPENING as normal 10am Wednesday 22nd of June at 10am.
+    <br>PLEASE NOTE WE WILL BE CLOSED FOR HOLIDAYS
+    <br>FROM 5PM ON WEDNESDAY 21ST SEPTEMBER 2022
     {{-- <br> Wishing you all a very happy and healthy Christmas.  --}}
+   <br>RE-OPENING @  10AM ON TUESDAY 2ND OCTOBER 2022
    <br>
-    Apologies for any inconvenience<br>
        Fiona & Robbie
    </p> 
 {{-- <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
