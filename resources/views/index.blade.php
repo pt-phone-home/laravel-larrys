@@ -11,7 +11,7 @@
     <br>Please note we will be closed for holidays
     <br>From <strong> 5pm on Wednesday 21st September 2022 </strong> 
     {{-- <br> Wishing you all a very happy and healthy Christmas.  --}}
-   <br>Re-opening @ <strong> 10am on Tuesday 2nd October 2022 </strong>
+   <br>Re-opening @ <strong> 10am on Tuesday 4th October 2022 </strong>
    <br>
        Fiona & Robbie
    </p> 
