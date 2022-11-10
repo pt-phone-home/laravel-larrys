@@ -6,12 +6,12 @@
 
 @section('content')
 <div class="index-opening">
-     <p class="index-opening-notice"><strong>Annual Holidays 2022</strong>.
+     <p class="index-opening-notice"><strong>Larry's DIY Notice</strong>.
    {{-- <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec.  --}}
-    <br>Please note we will be closed for holidays
-    <br>From <strong> 5pm on Wednesday 21st September 2022 </strong> 
+    <br>Please note we will be closed
+    <br>until <strong> 10am on Tuesday 15th November </strong> 
     {{-- <br> Wishing you all a very happy and healthy Christmas.  --}}
-   <br>Re-opening @ <strong> 10am on Tuesday 4th October 2022 </strong>
+   <br>due to staff illness<strong> </strong>
    <br>
        Fiona & Robbie
    </p> 
