@@ -6,12 +6,11 @@
 
 @section('content')
 <div class="index-opening">
-     <p class="index-opening-notice"><strong>Larry's DIY Notice</strong>.
+     <p class="index-opening-notice"><strong>Larry's DIY Christmas break</strong>.
    {{-- <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec.  --}}
     <br>Please note we will be closed
-    <br>until <strong> 10am on Tuesday 15th November </strong> 
+    <br>for the Christmas break from <strong>1pm on Friday 23rd Dec until 10am on Thursday 5th January</strong>
     {{-- <br> Wishing you all a very happy and healthy Christmas.  --}}
-   <br>due to staff illness<strong> </strong>
    <br>
        Fiona & Robbie
    </p> 

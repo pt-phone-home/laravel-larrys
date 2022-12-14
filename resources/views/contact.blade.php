@@ -115,7 +115,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-         <p class="opening-notice"><strong>Larry's DIY will be closed until <strong>10am Tuesday 15th November</strong></strong></p>
+         <p class="opening-notice"><strong>Larry's DIY will be closed for the Christmas break from <strong>1pm on Friday 23rd Dec until 10am on Thursday 5th January</strong></p>
             {{-- <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2021</strong></p>
                <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
