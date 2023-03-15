@@ -9,7 +9,7 @@
      <p class="index-opening-notice"><strong>Larry's DIY Christmas break</strong>.
    {{-- <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec.  --}}
     <br>Please note we will be closed
-    <br>for the Christmas break from <strong>1pm on Friday 23rd Dec until 10am on Thursday 5th January</strong>
+    <br>for the St Patrick's weekend from <strong>1pm on Thursday 16th March until 10am on Tuesday 21st March</strong>
     {{-- <br> Wishing you all a very happy and healthy Christmas.  --}}
    <br>
        Fiona & Robbie
