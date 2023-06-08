@@ -115,7 +115,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-         <p class="opening-notice"><strong>We will be closed for the Bank Holiday weekend from <strong>5pm on Friday 2nd June until 10am on Wednesday 7th June</strong></p> </div>
+         {{-- <p class="opening-notice"><strong>We will be closed for the Bank Holiday weekend from <strong>5pm on Friday 2nd June until 10am on Wednesday 7th June</strong></p> </div> --}}
             {{-- <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2021</strong></p>
                <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 

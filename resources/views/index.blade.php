@@ -5,12 +5,13 @@
 @endsection
 
 @section('content')
-<div class="index-opening">
-     <p class="index-opening-notice"><strong>JUNE BANK HOLIDAY</strong>.
+
+{{-- <div class="index-opening"> --}}
+     {{-- <p class="index-opening-notice"><strong>JUNE BANK HOLIDAY</strong>. --}}
    {{-- <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec.  --}}
-    <br>We will be closed for the Bank Holiday weekend from <strong>5pm on Friday 2nd June until 10am on Wednesday 7th June</strong>
+    {{-- <br>We will be closed for the Bank Holiday weekend from <strong>5pm on Friday 2nd June until 10am on Wednesday 7th June</strong> --}}
     {{-- <br> Wishing you all a very happy and healthy Christmas.  --}}
-   </p> 
+   {{-- </p>  --}}
 {{-- <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
 
           <br>
@@ -25,7 +26,8 @@
 
 </span> --}}
          
-</div>
+{{-- </div> --}}
+
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
         <h1 class="title_2">DIY</h1>
