@@ -6,27 +6,17 @@
 
 @section('content')
 
-{{-- <div class="index-opening"> --}}
-     {{-- <p class="index-opening-notice"><strong>JUNE BANK HOLIDAY</strong>. --}}
-   {{-- <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec.  --}}
-    {{-- <br>We will be closed for the Bank Holiday weekend from <strong>5pm on Friday 2nd June until 10am on Wednesday 7th June</strong> --}}
-    {{-- <br> Wishing you all a very happy and healthy Christmas.  --}}
-   {{-- </p>  --}}
-{{-- <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong>
+<div class="index-opening">
+     <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong> 
 
           <br>
           <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from
           </span>
           <br><br>
-          <span style="padding-left: 1rem;">2pm on Sat 7th of August until
-
-    </span>
+          <span style="padding-left: 1rem;">2pm on Sat 16th of September until</span>
       <br><br>
-      <span style="padding-left: 1rem;">10am on Tues 17th August
-
-</span> --}}
-         
-{{-- </div> --}}
+      <span style="padding-left: 1rem;">10am on Tues 3rd October</span> 
+</div>
 
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
