@@ -7,14 +7,8 @@
 @section('content')
 
 <div class="index-opening">
-     <p class="index-opening-notice"><strong style="margin-bottom: 15px;">To all our customers</strong> 
-
-          <br>
-          <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from
-          </span>
-          <br><br>
+          <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from</span>
           <span style="padding-left: 1rem;">2pm on Sat 16th of September until</span>
-      <br><br>
       <span style="padding-left: 1rem;">10am on Tues 3rd October</span> 
 </div>
 
