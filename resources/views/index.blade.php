@@ -10,12 +10,12 @@
      <p class="index-opening-notice">
 
           <br>
-          <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from
+          <span style="padding-left: 1rem;">Larry's DIY will be closed for Christmas from
           </span>
           <br><br>
-          <span style="padding-left: 1rem;">2pm on Sat 16th of September until</span>
+          <span style="padding-left: 1rem;">Saturday the 23rd of December at 2pm</span>
       <br><br>
-      <span style="padding-left: 1rem;">10am on Tues 3rd October</span> 
+      <span style="padding-left: 1rem;">re-opening at 10am on Thursday 4th of January 2024</span> 
      </p>
 </div>
 
