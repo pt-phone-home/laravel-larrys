@@ -12,10 +12,9 @@
           <br>
           <span style="padding-left: 1rem;">Larry's DIY will be closing at 1pm on Good Friday for Easter
           </span>
-          <br><br>
           {{-- <span style="padding-left: 1rem;">Saturday the 23rd of December at 2pm</span> --}}
-      <br><br>
-      <span style="padding-left: 1rem;">re-opening at 10am on Thursday 2nd of April </span> 
+      <br>
+      <span style="padding-left: 1rem;">Re-opening at 10am on Thursday 2nd of April </span> 
      </p>
 </div>
 
