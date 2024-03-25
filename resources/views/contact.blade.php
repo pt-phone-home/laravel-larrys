@@ -115,7 +115,7 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
-         <p class="opening-notice"><strong>Larry's DIY will be closed for Christmas from 2pm on Sat 23rd of December until 10am on Thursday 4th of January 2024</p> </div>
+         <p class="opening-notice"><strong>Larry's DIY will be closed at 1pm on Good Friday for Easter, reopening at 10am on Tuesday 2nd of April</p> </div>
             {{-- <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2021</strong></p>
                <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
