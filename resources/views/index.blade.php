@@ -6,17 +6,17 @@
 
 @section('content')
 
-<div class="index-opening">
-     <p class="index-opening-notice">
+{{-- <div class="index-opening"> --}}
+     {{-- <p class="index-opening-notice"> --}}
 
-          <br>
-          <span style="padding-left: 1rem;">Larry's DIY will be closing at 1pm on Good Friday for Easter
-          </span>
+          {{-- <br> --}}
+          {{-- <span style="padding-left: 1rem;">Larry's DIY will be closing at 1pm on Good Friday for Easter --}}
+          {{-- </span> --}}
           {{-- <span style="padding-left: 1rem;">Saturday the 23rd of December at 2pm</span> --}}
-      <br>
-      <span style="padding-left: 1rem;">Re-opening at 10am on Thursday 2nd of April </span> 
-     </p>
-</div>
+      {{-- <br> --}}
+      {{-- <span style="padding-left: 1rem;">Re-opening at 10am on Thursday 2nd of April </span>  --}}
+     {{-- </p> --}}
+{{-- </div> --}}
 
     <div class="banner">
         <h1 class="title_1">Larry's</h1>
