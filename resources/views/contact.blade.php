@@ -115,6 +115,9 @@ Contact | Larry's DIY
                </tr>
            </table>
            <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
+           <p class="opening-notice">
+            <strong>Larry's DIY well be closed for holidays from 2pm on Saturday 25th of May, reopening at 10am on Wednesday 5th of June</strong>
+           </p>
          {{-- <p class="opening-notice"><strong>Larry's DIY will be closed at 1pm on Good Friday for Easter, reopening at 10am on Tuesday 2nd of April</p> </div> --}}
             {{-- <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
                <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2021</strong></p>
@@ -126,7 +129,7 @@ Contact | Larry's DIY
             <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p> --}}
 {{--            <p>Please note we will be closed for the June bank holiday weekend from 4pm Friday the 4th of June until 10am Wednesday the 9th of June </p>--}}
 {{--            <p>We will also be closed Easter Weekend, closing 4pm Thursday April 1st and re-opening Tuesday April 6th.</p>--}}
-{{--            <p> Fiona &amp; Robbie</p>--}}
+{{--            <p> Fiona &amp; Robbie</p> --}}
         </div>
 
     </div>
