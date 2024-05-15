@@ -12,7 +12,6 @@
           <br>
           <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from 2pm on Saturday 25th of May
           </span>
-          {{-- <span style="padding-left: 1rem;">Saturday the 23rd of December at 2pm</span> --}}
       <br>
       <span style="padding-left: 1rem;">Re-opening at 10am on Wednesday 5th of June </span> 
      </p>

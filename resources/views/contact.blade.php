@@ -118,18 +118,6 @@ Contact | Larry's DIY
            <p class="opening-notice">
             <strong>Larry's DIY well be closed for holidays from 2pm on Saturday 25th of May, reopening at 10am on Wednesday 5th of June</strong>
            </p>
-         {{-- <p class="opening-notice"><strong>Larry's DIY will be closed at 1pm on Good Friday for Easter, reopening at 10am on Tuesday 2nd of April</p> </div> --}}
-            {{-- <div style="background-color: lightgray; padding: 5px; margin-top: 20px;">
-               <p style="text-align: center"><strong style="font-size: 20px;">Christmas Holidays 2021</strong></p>
-               <br> We will be taking an extended break this year.<br> CLOSING @3pm on Thursday 23rd Dec. 
-               <br>RE-OPENING on Saturday 8th Jan 10am - 2pm for fuel. 
-               <br>RE-OPENING as normal 10am Tuesday 11th Jan.
-           </div>  --}}
-            {{-- <p>We are closing at <strong>1pm on Wednesday the 23rd of December 2020</strong> and re-opening at <strong>10am on Wednesday the 6th of January 2021.</strong></p>
-            <p>Wishing all our customers a Happy & Safe Christmas and look forward to seeing you all again in the New Year.</p> --}}
-{{--            <p>Please note we will be closed for the June bank holiday weekend from 4pm Friday the 4th of June until 10am Wednesday the 9th of June </p>--}}
-{{--            <p>We will also be closed Easter Weekend, closing 4pm Thursday April 1st and re-opening Tuesday April 6th.</p>--}}
-{{--            <p> Fiona &amp; Robbie</p> --}}
         </div>
 
     </div>
