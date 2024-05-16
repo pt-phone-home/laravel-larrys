@@ -74,7 +74,7 @@ Contact | Larry's DIY
 
         <div class="opening ml-4">
            {{-- <h1>Our Opening Times</h1> --}}
-           <h1>From Tuesday 5th October 2021, our opening ours will change to:</h1>
+           <h1>From Tuesday 5th October 2021, our opening hours will change to:</h1>
            <table>
                <tr>
                    <td>Monday</td>
@@ -114,9 +114,9 @@ Contact | Larry's DIY
                    <td>Closed</td>
                </tr>
            </table>
-           <p>Closed daily for lunch between <strong>1pm and 2pm</strong></p>
+           <p>Closed for lunch Tuesday to Friday between <strong>1pm and 2pm</strong></p>
            <p class="opening-notice">
-            <strong>Larry's DIY well be closed for holidays from 2pm on Saturday 25th of May, reopening at 10am on Wednesday 5th of June</strong>
+            <strong>Larry's DIY will be closed for holidays from 2pm on Saturday 25th of May, reopening at 10am on Wednesday 5th of June</strong>
            </p>
         </div>
 
