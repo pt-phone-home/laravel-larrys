@@ -10,10 +10,10 @@
      <p class="index-opening-notice">
 
           <br>
-          <span style="padding-left: 1rem;">Larry's DIY will be closed for holidays from 2pm on Saturday 25th of May
+          <span style="padding-left: 1rem;">Larry's DIY will open our normal hours for the August bank holiday weekend
           </span>
       <br>
-      <span style="padding-left: 1rem;">Re-opening at 10am on Wednesday 5th of June </span> 
+      <span style="padding-left: 1rem;">However, we will be closed on Friday the 9th and Saturday the 10th of August </span> 
      </p>
 </div>
 

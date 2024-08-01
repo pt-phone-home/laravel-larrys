@@ -116,7 +116,7 @@ Contact | Larry's DIY
            </table>
            <p>Closed for lunch Tuesday to Friday between <strong>1pm and 2pm</strong></p>
            <p class="opening-notice">
-            <strong>Larry's DIY will be closed for holidays from 2pm on Saturday 25th of May, reopening at 10am on Wednesday 5th of June</strong>
+            <strong>Larry's DIY will open our normal hours for the August bank holiday weekend. However, we will be closed on Friday the 9th and Saturday the 10th of August</strong>
            </p>
         </div>
 
