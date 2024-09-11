@@ -74,7 +74,7 @@ Contact | Larry's DIY
 
         <div class="opening ml-4">
            {{-- <h1>Our Opening Times</h1> --}}
-           <h1>From Tuesday 5th October 2021, our opening hours will change to:</h1>
+           <h1>Our trading ours are:</h1>
            <table>
                <tr>
                    <td>Monday</td>
@@ -116,7 +116,7 @@ Contact | Larry's DIY
            </table>
            <p>Closed for lunch Tuesday to Friday between <strong>1pm and 2pm</strong></p>
            <p class="opening-notice">
-            <strong>Larry's DIY will open our normal hours for the August bank holiday weekend. However, we will be closed on Friday the 9th and Saturday the 10th of August</strong>
+            We will be closed for annual holidays from 2pm on Sat 21st of September 2024 . Re-Opening at 10am on Thursday the 3rd of October 2024.
            </p>
         </div>
 

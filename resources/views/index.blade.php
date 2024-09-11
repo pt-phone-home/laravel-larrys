@@ -10,10 +10,10 @@
      <p class="index-opening-notice">
 
           <br>
-          <span style="padding-left: 1rem;">Larry's DIY will open our normal hours for the August bank holiday weekend
+          <span style="padding-left: 1rem;">Larry's DIY will be closed for annual holidays from 2pm on Sat 21st of September.
           </span>
       <br>
-      <span style="padding-left: 1rem;">However, we will be closed on Friday the 9th and Saturday the 10th of August </span> 
+      <span style="padding-left: 1rem;">We will re-open at 10am on Thursday 3rd of October</span> 
      </p>
 </div>
 
@@ -129,7 +129,7 @@
                 <img src="/images/fuel.jpg" alt="">
                 <a href="/fuel" class="btn services-link">Fuel Sales</a>
                 <p>Fuel for Stoves &amp; Open Fires. Special offers available in store.</p>
-                <p><strong>Winter fuels are back in stock from the 1st October 2021</strong></p>
+              
 
             </div>
 
