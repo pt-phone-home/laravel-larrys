@@ -116,7 +116,7 @@ Contact | Larry's DIY
            </table>
            <p>Closed for lunch Tuesday to Friday between <strong>1pm and 2pm</strong></p>
            <p class="opening-notice">
-            We will be closed for annual holidays from 2pm on Sat 21st of September 2024 . Re-Opening at 10am on Thursday the 3rd of October 2024.
+            We will be closed for Christmas holidays from 2pm on Sat 21st of December. Re-Opening at 10am on Friday the 3rd of January 2025.
            </p>
         </div>
 
