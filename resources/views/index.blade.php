@@ -10,7 +10,7 @@
      <p class="index-opening-notice">
 
           <br>
-          <span style="padding-left: 1rem;">Larry's DIY will close for Christmas on 2pm on Sat 21st of December.
+          <span style="padding-left: 1rem;">Larry's DIY will close for Christmas at 2pm on Sat 21st of December.
           </span>
       <br>
       <span style="padding-left: 1rem;">We will re-open at 10am on Friday 3rd of January</span> 
